@@ -1,0 +1,943 @@
+,_id,weekending,season,seasonweek,ageclass,percent_ill,seasonday,domain
+0,620b9d0686c1ac36efa63c49,2017-07-08,2017-2018,1,Adult,1.12633196405052,8,insights_explorer_percent_ill_by_timeframe
+1,620b9d0686c1ac36efa63c4a,2017-07-08,2017-2018,1,Pediatric,1.94732250520886,8,insights_explorer_percent_ill_by_timeframe
+2,620b9d0686c1ac36efa63c4b,2017-07-08,2017-2018,1,Total,1.61892628874552,8,insights_explorer_percent_ill_by_timeframe
+3,620b9d0686c1ac36efa63c4c,2017-07-15,2017-2018,2,Adult,1.0438799181714,15,insights_explorer_percent_ill_by_timeframe
+4,620b9d0686c1ac36efa63c4d,2017-07-15,2017-2018,2,Pediatric,2.04982929843014,15,insights_explorer_percent_ill_by_timeframe
+5,620b9d0686c1ac36efa63c4e,2017-07-15,2017-2018,2,Total,1.64744954632664,15,insights_explorer_percent_ill_by_timeframe
+6,620b9d0686c1ac36efa63c4f,2017-07-22,2017-2018,3,Adult,0.950445105639758,22,insights_explorer_percent_ill_by_timeframe
+7,620b9d0686c1ac36efa63c50,2017-07-22,2017-2018,3,Pediatric,2.1164639146641697,22,insights_explorer_percent_ill_by_timeframe
+8,620b9d0686c1ac36efa63c51,2017-07-22,2017-2018,3,Total,1.65005639105441,22,insights_explorer_percent_ill_by_timeframe
+9,620b9d0686c1ac36efa63c52,2017-07-29,2017-2018,4,Adult,1.02059966203944,29,insights_explorer_percent_ill_by_timeframe
+10,620b9d0686c1ac36efa63c53,2017-07-29,2017-2018,4,Pediatric,1.97780026763175,29,insights_explorer_percent_ill_by_timeframe
+11,620b9d0686c1ac36efa63c54,2017-07-29,2017-2018,4,Total,1.59492002539482,29,insights_explorer_percent_ill_by_timeframe
+12,620b9d0686c1ac36efa63c55,2017-08-05,2017-2018,5,Adult,1.02452211410274,36,insights_explorer_percent_ill_by_timeframe
+13,620b9d0686c1ac36efa63c56,2017-08-05,2017-2018,5,Pediatric,1.95540277073598,36,insights_explorer_percent_ill_by_timeframe
+14,620b9d0686c1ac36efa63c57,2017-08-05,2017-2018,5,Total,1.5830505080826798,36,insights_explorer_percent_ill_by_timeframe
+15,620b9d0686c1ac36efa63c58,2017-08-12,2017-2018,6,Adult,1.08855038286273,43,insights_explorer_percent_ill_by_timeframe
+16,620b9d0686c1ac36efa63c59,2017-08-12,2017-2018,6,Pediatric,2.01557404973856,43,insights_explorer_percent_ill_by_timeframe
+17,620b9d0686c1ac36efa63c5a,2017-08-12,2017-2018,6,Total,1.64476458298823,43,insights_explorer_percent_ill_by_timeframe
+18,620b9d0686c1ac36efa63c5b,2017-08-19,2017-2018,7,Adult,1.33639575808849,50,insights_explorer_percent_ill_by_timeframe
+19,620b9d0686c1ac36efa63c5c,2017-08-19,2017-2018,7,Pediatric,2.3856844117381,50,insights_explorer_percent_ill_by_timeframe
+20,620b9d0686c1ac36efa63c5d,2017-08-19,2017-2018,7,Total,1.96596895027826,50,insights_explorer_percent_ill_by_timeframe
+21,620b9d0686c1ac36efa63c5e,2017-08-26,2017-2018,8,Adult,1.4319188577998798,57,insights_explorer_percent_ill_by_timeframe
+22,620b9d0686c1ac36efa63c5f,2017-08-26,2017-2018,8,Pediatric,2.66148931498416,57,insights_explorer_percent_ill_by_timeframe
+23,620b9d0686c1ac36efa63c60,2017-08-26,2017-2018,8,Total,2.1696611321104498,57,insights_explorer_percent_ill_by_timeframe
+24,620b9d0686c1ac36efa63c61,2017-09-02,2017-2018,9,Adult,1.67063447448011,64,insights_explorer_percent_ill_by_timeframe
+25,620b9d0686c1ac36efa63c62,2017-09-02,2017-2018,9,Pediatric,2.9519469171273705,64,insights_explorer_percent_ill_by_timeframe
+26,620b9d0686c1ac36efa63c63,2017-09-02,2017-2018,9,Total,2.43942194006847,64,insights_explorer_percent_ill_by_timeframe
+27,620b9d0686c1ac36efa63c64,2017-09-09,2017-2018,10,Adult,1.9151203734822,71,insights_explorer_percent_ill_by_timeframe
+28,620b9d0686c1ac36efa63c65,2017-09-09,2017-2018,10,Pediatric,3.07474474210716,71,insights_explorer_percent_ill_by_timeframe
+29,620b9d0686c1ac36efa63c66,2017-09-09,2017-2018,10,Total,2.61089499465718,71,insights_explorer_percent_ill_by_timeframe
+30,620b9d0686c1ac36efa63c67,2017-09-16,2017-2018,11,Adult,2.10054526343616,78,insights_explorer_percent_ill_by_timeframe
+31,620b9d0686c1ac36efa63c68,2017-09-16,2017-2018,11,Pediatric,3.20776265130018,78,insights_explorer_percent_ill_by_timeframe
+32,620b9d0686c1ac36efa63c69,2017-09-16,2017-2018,11,Total,2.76487569615457,78,insights_explorer_percent_ill_by_timeframe
+33,620b9d0686c1ac36efa63c6a,2017-09-23,2017-2018,12,Adult,2.17109369976662,85,insights_explorer_percent_ill_by_timeframe
+34,620b9d0686c1ac36efa63c6b,2017-09-23,2017-2018,12,Pediatric,3.33557511494069,85,insights_explorer_percent_ill_by_timeframe
+35,620b9d0686c1ac36efa63c6c,2017-09-23,2017-2018,12,Total,2.86978254887106,85,insights_explorer_percent_ill_by_timeframe
+36,620b9d0686c1ac36efa63c6d,2017-09-30,2017-2018,13,Adult,2.1361761389370097,92,insights_explorer_percent_ill_by_timeframe
+37,620b9d0686c1ac36efa63c6e,2017-09-30,2017-2018,13,Pediatric,3.17097596285908,92,insights_explorer_percent_ill_by_timeframe
+38,620b9d0686c1ac36efa63c6f,2017-09-30,2017-2018,13,Total,2.7570560332902496,92,insights_explorer_percent_ill_by_timeframe
+39,620b9d0686c1ac36efa63c70,2017-10-07,2017-2018,14,Adult,1.91653859772227,99,insights_explorer_percent_ill_by_timeframe
+40,620b9d0686c1ac36efa63c71,2017-10-07,2017-2018,14,Pediatric,3.27241857243543,99,insights_explorer_percent_ill_by_timeframe
+41,620b9d0686c1ac36efa63c72,2017-10-07,2017-2018,14,Total,2.7300665825501698,99,insights_explorer_percent_ill_by_timeframe
+42,620b9d0686c1ac36efa63c73,2017-10-14,2017-2018,15,Adult,1.67423734748263,106,insights_explorer_percent_ill_by_timeframe
+43,620b9d0686c1ac36efa63c74,2017-10-14,2017-2018,15,Pediatric,3.08734753537964,106,insights_explorer_percent_ill_by_timeframe
+44,620b9d0686c1ac36efa63c75,2017-10-14,2017-2018,15,Total,2.5221034602208303,106,insights_explorer_percent_ill_by_timeframe
+45,620b9d0686c1ac36efa63c76,2017-10-21,2017-2018,16,Adult,1.62897903433754,113,insights_explorer_percent_ill_by_timeframe
+46,620b9d0686c1ac36efa63c77,2017-10-21,2017-2018,16,Pediatric,3.0998423326257,113,insights_explorer_percent_ill_by_timeframe
+47,620b9d0686c1ac36efa63c78,2017-10-21,2017-2018,16,Total,2.51149701331044,113,insights_explorer_percent_ill_by_timeframe
+48,620b9d0686c1ac36efa63c79,2017-10-28,2017-2018,17,Adult,1.59069409479577,120,insights_explorer_percent_ill_by_timeframe
+49,620b9d0686c1ac36efa63c7a,2017-10-28,2017-2018,17,Pediatric,3.0510118328697207,120,insights_explorer_percent_ill_by_timeframe
+50,620b9d0686c1ac36efa63c7b,2017-10-28,2017-2018,17,Total,2.46688473764014,120,insights_explorer_percent_ill_by_timeframe
+51,620b9d0686c1ac36efa63c7c,2017-11-04,2017-2018,18,Adult,1.79225718819301,127,insights_explorer_percent_ill_by_timeframe
+52,620b9d0686c1ac36efa63c7d,2017-11-04,2017-2018,18,Pediatric,3.2522231203722995,127,insights_explorer_percent_ill_by_timeframe
+53,620b9d0686c1ac36efa63c7e,2017-11-04,2017-2018,18,Total,2.66823674750058,127,insights_explorer_percent_ill_by_timeframe
+54,620b9d0686c1ac36efa63c7f,2017-11-11,2017-2018,19,Adult,1.79066350272777,134,insights_explorer_percent_ill_by_timeframe
+55,620b9d0686c1ac36efa63c80,2017-11-11,2017-2018,19,Pediatric,3.48676885651673,134,insights_explorer_percent_ill_by_timeframe
+56,620b9d0686c1ac36efa63c81,2017-11-11,2017-2018,19,Total,2.80832671500114,134,insights_explorer_percent_ill_by_timeframe
+57,620b9d0686c1ac36efa63c82,2017-11-18,2017-2018,20,Adult,2.14169496265806,141,insights_explorer_percent_ill_by_timeframe
+58,620b9d0686c1ac36efa63c83,2017-11-18,2017-2018,20,Pediatric,3.69136300686935,141,insights_explorer_percent_ill_by_timeframe
+59,620b9d0686c1ac36efa63c84,2017-11-18,2017-2018,20,Total,3.07149578918483,141,insights_explorer_percent_ill_by_timeframe
+60,620b9d0686c1ac36efa63c85,2017-11-25,2017-2018,21,Adult,2.27564512053746,148,insights_explorer_percent_ill_by_timeframe
+61,620b9d0686c1ac36efa63c86,2017-11-25,2017-2018,21,Pediatric,3.77654239136606,148,insights_explorer_percent_ill_by_timeframe
+62,620b9d0686c1ac36efa63c87,2017-11-25,2017-2018,21,Total,3.1761834830346203,148,insights_explorer_percent_ill_by_timeframe
+63,620b9d0686c1ac36efa63c88,2017-12-02,2017-2018,22,Adult,2.74989325256401,155,insights_explorer_percent_ill_by_timeframe
+64,620b9d0686c1ac36efa63c89,2017-12-02,2017-2018,22,Pediatric,4.027156476617971,155,insights_explorer_percent_ill_by_timeframe
+65,620b9d0686c1ac36efa63c8a,2017-12-02,2017-2018,22,Total,3.5162511869963904,155,insights_explorer_percent_ill_by_timeframe
+66,620b9d0686c1ac36efa63c8b,2017-12-09,2017-2018,23,Adult,2.7235166250042004,162,insights_explorer_percent_ill_by_timeframe
+67,620b9d0686c1ac36efa63c8c,2017-12-09,2017-2018,23,Pediatric,4.588580157964049,162,insights_explorer_percent_ill_by_timeframe
+68,620b9d0686c1ac36efa63c8d,2017-12-09,2017-2018,23,Total,3.8425547447801103,162,insights_explorer_percent_ill_by_timeframe
+69,620b9d0686c1ac36efa63c8e,2017-12-16,2017-2018,24,Adult,3.22777644629274,169,insights_explorer_percent_ill_by_timeframe
+70,620b9d0686c1ac36efa63c8f,2017-12-16,2017-2018,24,Pediatric,5.5952789176375495,169,insights_explorer_percent_ill_by_timeframe
+71,620b9d0686c1ac36efa63c90,2017-12-16,2017-2018,24,Total,4.64827792909963,169,insights_explorer_percent_ill_by_timeframe
+72,620b9d0686c1ac36efa63c91,2017-12-23,2017-2018,25,Adult,4.0975680310834,176,insights_explorer_percent_ill_by_timeframe
+73,620b9d0686c1ac36efa63c92,2017-12-23,2017-2018,25,Pediatric,6.242971876207879,176,insights_explorer_percent_ill_by_timeframe
+74,620b9d0686c1ac36efa63c93,2017-12-23,2017-2018,25,Total,5.38481033815809,176,insights_explorer_percent_ill_by_timeframe
+75,620b9d0686c1ac36efa63c94,2017-12-30,2017-2018,26,Adult,4.410996073129719,183,insights_explorer_percent_ill_by_timeframe
+76,620b9d0686c1ac36efa63c95,2017-12-30,2017-2018,26,Pediatric,5.383399643683231,183,insights_explorer_percent_ill_by_timeframe
+77,620b9d0686c1ac36efa63c96,2017-12-30,2017-2018,26,Total,4.99443821546183,183,insights_explorer_percent_ill_by_timeframe
+78,620b9d0686c1ac36efa63c97,2018-01-06,2017-2018,27,Adult,4.72233340581327,190,insights_explorer_percent_ill_by_timeframe
+79,620b9d0686c1ac36efa63c98,2018-01-06,2017-2018,27,Pediatric,4.72583178537318,190,insights_explorer_percent_ill_by_timeframe
+80,620b9d0686c1ac36efa63c99,2018-01-06,2017-2018,27,Total,4.72443243354922,190,insights_explorer_percent_ill_by_timeframe
+81,620b9d0686c1ac36efa63c9a,2018-01-13,2017-2018,28,Adult,4.41707522560514,197,insights_explorer_percent_ill_by_timeframe
+82,620b9d0686c1ac36efa63c9b,2018-01-13,2017-2018,28,Pediatric,5.23188646079871,197,insights_explorer_percent_ill_by_timeframe
+83,620b9d0686c1ac36efa63c9c,2018-01-13,2017-2018,28,Total,4.90596196672128,197,insights_explorer_percent_ill_by_timeframe
+84,620b9d0686c1ac36efa63c9d,2018-01-20,2017-2018,29,Adult,4.580292094808191,204,insights_explorer_percent_ill_by_timeframe
+85,620b9d0686c1ac36efa63c9e,2018-01-20,2017-2018,29,Pediatric,5.50744714261994,204,insights_explorer_percent_ill_by_timeframe
+86,620b9d0686c1ac36efa63c9f,2018-01-20,2017-2018,29,Total,5.13658512349524,204,insights_explorer_percent_ill_by_timeframe
+87,620b9d0686c1ac36efa63ca0,2018-01-27,2017-2018,30,Adult,5.0437816724178495,211,insights_explorer_percent_ill_by_timeframe
+88,620b9d0686c1ac36efa63ca1,2018-01-27,2017-2018,30,Pediatric,6.51164796304682,211,insights_explorer_percent_ill_by_timeframe
+89,620b9d0686c1ac36efa63ca2,2018-01-27,2017-2018,30,Total,5.9245014467952295,211,insights_explorer_percent_ill_by_timeframe
+90,620b9d0686c1ac36efa63ca3,2018-02-03,2017-2018,31,Adult,5.8087062697752,218,insights_explorer_percent_ill_by_timeframe
+91,620b9d0686c1ac36efa63ca4,2018-02-03,2017-2018,31,Pediatric,7.33976904680908,218,insights_explorer_percent_ill_by_timeframe
+92,620b9d0686c1ac36efa63ca5,2018-02-03,2017-2018,31,Total,6.72734393599553,218,insights_explorer_percent_ill_by_timeframe
+93,620b9d0686c1ac36efa63ca6,2018-02-10,2017-2018,32,Adult,5.66228875781273,225,insights_explorer_percent_ill_by_timeframe
+94,620b9d0686c1ac36efa63ca7,2018-02-10,2017-2018,32,Pediatric,7.38783889253641,225,insights_explorer_percent_ill_by_timeframe
+95,620b9d0686c1ac36efa63ca8,2018-02-10,2017-2018,32,Total,6.69761883864694,225,insights_explorer_percent_ill_by_timeframe
+96,620b9d0686c1ac36efa63ca9,2018-02-17,2017-2018,33,Adult,4.82825045480587,232,insights_explorer_percent_ill_by_timeframe
+97,620b9d0686c1ac36efa63caa,2018-02-17,2017-2018,33,Pediatric,6.33003284501304,232,insights_explorer_percent_ill_by_timeframe
+98,620b9d0686c1ac36efa63cab,2018-02-17,2017-2018,33,Total,5.72931988893017,232,insights_explorer_percent_ill_by_timeframe
+99,620b9d0686c1ac36efa63cac,2018-02-24,2017-2018,34,Adult,3.66612170883864,239,insights_explorer_percent_ill_by_timeframe
+100,620b9d0686c1ac36efa63cad,2018-02-24,2017-2018,34,Pediatric,4.7541846371919005,239,insights_explorer_percent_ill_by_timeframe
+101,620b9d0686c1ac36efa63cae,2018-02-24,2017-2018,34,Total,4.31895946585059,239,insights_explorer_percent_ill_by_timeframe
+102,620b9d0686c1ac36efa63caf,2018-03-03,2017-2018,35,Adult,2.73252097644092,246,insights_explorer_percent_ill_by_timeframe
+103,620b9d0686c1ac36efa63cb0,2018-03-03,2017-2018,35,Pediatric,4.0301468854761096,246,insights_explorer_percent_ill_by_timeframe
+104,620b9d0686c1ac36efa63cb1,2018-03-03,2017-2018,35,Total,3.5110965218620303,246,insights_explorer_percent_ill_by_timeframe
+105,620b9d0686c1ac36efa63cb2,2018-03-10,2017-2018,36,Adult,2.48049107988851,253,insights_explorer_percent_ill_by_timeframe
+106,620b9d0686c1ac36efa63cb3,2018-03-10,2017-2018,36,Pediatric,3.82177385619242,253,insights_explorer_percent_ill_by_timeframe
+107,620b9d0686c1ac36efa63cb4,2018-03-10,2017-2018,36,Total,3.2852607456708505,253,insights_explorer_percent_ill_by_timeframe
+108,620b9d0686c1ac36efa63cb5,2018-03-17,2017-2018,37,Adult,2.24182331967482,260,insights_explorer_percent_ill_by_timeframe
+109,620b9d0686c1ac36efa63cb6,2018-03-17,2017-2018,37,Pediatric,3.39462742799658,260,insights_explorer_percent_ill_by_timeframe
+110,620b9d0686c1ac36efa63cb7,2018-03-17,2017-2018,37,Total,2.9335057846678705,260,insights_explorer_percent_ill_by_timeframe
+111,620b9d0686c1ac36efa63cb8,2018-03-24,2017-2018,38,Adult,2.2002088220898,267,insights_explorer_percent_ill_by_timeframe
+112,620b9d0686c1ac36efa63cb9,2018-03-24,2017-2018,38,Pediatric,3.2140081403778,267,insights_explorer_percent_ill_by_timeframe
+113,620b9d0686c1ac36efa63cba,2018-03-24,2017-2018,38,Total,2.8084884130626,267,insights_explorer_percent_ill_by_timeframe
+114,620b9d0686c1ac36efa63cbb,2018-03-31,2017-2018,39,Adult,1.85343504310932,274,insights_explorer_percent_ill_by_timeframe
+115,620b9d0686c1ac36efa63cbc,2018-03-31,2017-2018,39,Pediatric,2.97715406516425,274,insights_explorer_percent_ill_by_timeframe
+116,620b9d0686c1ac36efa63cbd,2018-03-31,2017-2018,39,Total,2.52766645634228,274,insights_explorer_percent_ill_by_timeframe
+117,620b9d0686c1ac36efa63cbe,2018-04-07,2017-2018,40,Adult,1.74398078033486,281,insights_explorer_percent_ill_by_timeframe
+118,620b9d0686c1ac36efa63cbf,2018-04-07,2017-2018,40,Pediatric,2.703567489550069,281,insights_explorer_percent_ill_by_timeframe
+119,620b9d0686c1ac36efa63cc0,2018-04-07,2017-2018,40,Total,2.3197328058639903,281,insights_explorer_percent_ill_by_timeframe
+120,620b9d0686c1ac36efa63cc1,2018-04-14,2017-2018,41,Adult,1.70133452175064,288,insights_explorer_percent_ill_by_timeframe
+121,620b9d0686c1ac36efa63cc2,2018-04-14,2017-2018,41,Pediatric,2.57345687403777,288,insights_explorer_percent_ill_by_timeframe
+122,620b9d0686c1ac36efa63cc3,2018-04-14,2017-2018,41,Total,2.22460793312292,288,insights_explorer_percent_ill_by_timeframe
+123,620b9d0686c1ac36efa63cc4,2018-04-21,2017-2018,42,Adult,1.52644557870974,295,insights_explorer_percent_ill_by_timeframe
+124,620b9d0686c1ac36efa63cc5,2018-04-21,2017-2018,42,Pediatric,2.55534600730931,295,insights_explorer_percent_ill_by_timeframe
+125,620b9d0686c1ac36efa63cc6,2018-04-21,2017-2018,42,Total,2.14378583586948,295,insights_explorer_percent_ill_by_timeframe
+126,620b9d0686c1ac36efa63cc7,2018-04-28,2017-2018,43,Adult,1.5361837414905102,302,insights_explorer_percent_ill_by_timeframe
+127,620b9d0686c1ac36efa63cc8,2018-04-28,2017-2018,43,Pediatric,2.66808347160817,302,insights_explorer_percent_ill_by_timeframe
+128,620b9d0686c1ac36efa63cc9,2018-04-28,2017-2018,43,Total,2.21532357956111,302,insights_explorer_percent_ill_by_timeframe
+129,620b9d0686c1ac36efa63cca,2018-05-05,2017-2018,44,Adult,1.42201938757015,309,insights_explorer_percent_ill_by_timeframe
+130,620b9d0686c1ac36efa63ccb,2018-05-05,2017-2018,44,Pediatric,2.5721125632563195,309,insights_explorer_percent_ill_by_timeframe
+131,620b9d0686c1ac36efa63ccc,2018-05-05,2017-2018,44,Total,2.1120752929818503,309,insights_explorer_percent_ill_by_timeframe
+132,620b9d0686c1ac36efa63ccd,2018-05-12,2017-2018,45,Adult,1.24591299885221,316,insights_explorer_percent_ill_by_timeframe
+133,620b9d0686c1ac36efa63cce,2018-05-12,2017-2018,45,Pediatric,2.22746490776251,316,insights_explorer_percent_ill_by_timeframe
+134,620b9d0686c1ac36efa63ccf,2018-05-12,2017-2018,45,Total,1.83484414419839,316,insights_explorer_percent_ill_by_timeframe
+135,620b9d0686c1ac36efa63cd0,2018-05-19,2017-2018,46,Adult,1.2273876054943702,323,insights_explorer_percent_ill_by_timeframe
+136,620b9d0686c1ac36efa63cd1,2018-05-19,2017-2018,46,Pediatric,2.23893744213484,323,insights_explorer_percent_ill_by_timeframe
+137,620b9d0686c1ac36efa63cd2,2018-05-19,2017-2018,46,Total,1.83431750747866,323,insights_explorer_percent_ill_by_timeframe
+138,620b9d0686c1ac36efa63cd3,2018-05-26,2017-2018,47,Adult,1.17126992168211,330,insights_explorer_percent_ill_by_timeframe
+139,620b9d0686c1ac36efa63cd4,2018-05-26,2017-2018,47,Pediatric,2.14389149783451,330,insights_explorer_percent_ill_by_timeframe
+140,620b9d0686c1ac36efa63cd5,2018-05-26,2017-2018,47,Total,1.75484286737355,330,insights_explorer_percent_ill_by_timeframe
+141,620b9d0686c1ac36efa63cd6,2018-06-02,2017-2018,48,Adult,1.1009410282420602,337,insights_explorer_percent_ill_by_timeframe
+142,620b9d0686c1ac36efa63cd7,2018-06-02,2017-2018,48,Pediatric,2.00837701906548,337,insights_explorer_percent_ill_by_timeframe
+143,620b9d0686c1ac36efa63cd8,2018-06-02,2017-2018,48,Total,1.64540262273611,337,insights_explorer_percent_ill_by_timeframe
+144,620b9d0686c1ac36efa63cd9,2018-06-09,2017-2018,49,Adult,0.9226817748936628,344,insights_explorer_percent_ill_by_timeframe
+145,620b9d0686c1ac36efa63cda,2018-06-09,2017-2018,49,Pediatric,1.8786148712220097,344,insights_explorer_percent_ill_by_timeframe
+146,620b9d0686c1ac36efa63cdb,2018-06-09,2017-2018,49,Total,1.4962416326906698,344,insights_explorer_percent_ill_by_timeframe
+147,620b9d0686c1ac36efa63cdc,2018-06-16,2017-2018,50,Adult,0.8292591162392541,351,insights_explorer_percent_ill_by_timeframe
+148,620b9d0686c1ac36efa63cdd,2018-06-16,2017-2018,50,Pediatric,1.69972237589551,351,insights_explorer_percent_ill_by_timeframe
+149,620b9d0686c1ac36efa63cde,2018-06-16,2017-2018,50,Total,1.3515370720330102,351,insights_explorer_percent_ill_by_timeframe
+150,620b9d0686c1ac36efa63cdf,2018-06-23,2017-2018,51,Adult,0.793394533547759,358,insights_explorer_percent_ill_by_timeframe
+151,620b9d0686c1ac36efa63ce0,2018-06-23,2017-2018,51,Pediatric,1.63540145595135,358,insights_explorer_percent_ill_by_timeframe
+152,620b9d0686c1ac36efa63ce1,2018-06-23,2017-2018,51,Total,1.2985986869899098,358,insights_explorer_percent_ill_by_timeframe
+153,620b9d0686c1ac36efa63ce2,2017-07-01,2017-2018,52,Adult,1.11760058971194,1,insights_explorer_percent_ill_by_timeframe
+154,620b9d0686c1ac36efa63ce3,2018-06-30,2017-2018,52,Adult,0.622465100510446,365,insights_explorer_percent_ill_by_timeframe
+155,620b9d0686c1ac36efa63ce4,2017-07-01,2017-2018,52,Pediatric,2.2718564552999303,1,insights_explorer_percent_ill_by_timeframe
+156,620b9d0686c1ac36efa63ce5,2018-06-30,2017-2018,52,Pediatric,1.4475281053621,365,insights_explorer_percent_ill_by_timeframe
+157,620b9d0686c1ac36efa63ce6,2017-07-01,2017-2018,52,Total,1.81015410906474,1,insights_explorer_percent_ill_by_timeframe
+158,620b9d0686c1ac36efa63ce7,2018-06-30,2017-2018,52,Total,1.11750290342144,365,insights_explorer_percent_ill_by_timeframe
+159,620b9d0686c1ac36efa63ce8,2018-07-07,2018-2019,1,Adult,0.54227675362622,7,insights_explorer_percent_ill_by_timeframe
+160,620b9d0686c1ac36efa63ce9,2018-07-07,2018-2019,1,Pediatric,1.3918929207190298,7,insights_explorer_percent_ill_by_timeframe
+161,620b9d0686c1ac36efa63cea,2018-07-07,2018-2019,1,Total,1.0520464538819,7,insights_explorer_percent_ill_by_timeframe
+162,620b9d0686c1ac36efa63ceb,2018-07-14,2018-2019,2,Adult,0.661911353308254,14,insights_explorer_percent_ill_by_timeframe
+163,620b9d0686c1ac36efa63cec,2018-07-14,2018-2019,2,Pediatric,1.39280242279901,14,insights_explorer_percent_ill_by_timeframe
+164,620b9d0686c1ac36efa63ced,2018-07-14,2018-2019,2,Total,1.10044599500271,14,insights_explorer_percent_ill_by_timeframe
+165,620b9d0686c1ac36efa63cee,2018-07-21,2018-2019,3,Adult,0.645950329572774,21,insights_explorer_percent_ill_by_timeframe
+166,620b9d0686c1ac36efa63cef,2018-07-21,2018-2019,3,Pediatric,1.41626999889966,21,insights_explorer_percent_ill_by_timeframe
+167,620b9d0686c1ac36efa63cf0,2018-07-21,2018-2019,3,Total,1.10814213116891,21,insights_explorer_percent_ill_by_timeframe
+168,620b9d0686c1ac36efa63cf1,2018-07-28,2018-2019,4,Adult,0.589130156636148,28,insights_explorer_percent_ill_by_timeframe
+169,620b9d0686c1ac36efa63cf2,2018-07-28,2018-2019,4,Pediatric,1.37613602058602,28,insights_explorer_percent_ill_by_timeframe
+170,620b9d0686c1ac36efa63cf3,2018-07-28,2018-2019,4,Total,1.06133367500607,28,insights_explorer_percent_ill_by_timeframe
+171,620b9d0686c1ac36efa63cf4,2018-08-04,2018-2019,5,Adult,0.624033081478252,35,insights_explorer_percent_ill_by_timeframe
+172,620b9d0686c1ac36efa63cf5,2018-08-04,2018-2019,5,Pediatric,1.45702939192575,35,insights_explorer_percent_ill_by_timeframe
+173,620b9d0686c1ac36efa63cf6,2018-08-04,2018-2019,5,Total,1.12383086774675,35,insights_explorer_percent_ill_by_timeframe
+174,620b9d0686c1ac36efa63cf7,2018-08-11,2018-2019,6,Adult,0.692565072074974,42,insights_explorer_percent_ill_by_timeframe
+175,620b9d0686c1ac36efa63cf8,2018-08-11,2018-2019,6,Pediatric,1.51759300299867,42,insights_explorer_percent_ill_by_timeframe
+176,620b9d0686c1ac36efa63cf9,2018-08-11,2018-2019,6,Total,1.18758183062919,42,insights_explorer_percent_ill_by_timeframe
+177,620b9d0686c1ac36efa63cfa,2018-08-18,2018-2019,7,Adult,0.7504513755144849,49,insights_explorer_percent_ill_by_timeframe
+178,620b9d0686c1ac36efa63cfb,2018-08-18,2018-2019,7,Pediatric,1.5109968821371298,49,insights_explorer_percent_ill_by_timeframe
+179,620b9d0686c1ac36efa63cfc,2018-08-18,2018-2019,7,Total,1.20677867948807,49,insights_explorer_percent_ill_by_timeframe
+180,620b9d0686c1ac36efa63cfd,2018-08-25,2018-2019,8,Adult,0.916476945674822,56,insights_explorer_percent_ill_by_timeframe
+181,620b9d0686c1ac36efa63cfe,2018-08-25,2018-2019,8,Pediatric,1.78233484957165,56,insights_explorer_percent_ill_by_timeframe
+182,620b9d0686c1ac36efa63cff,2018-08-25,2018-2019,8,Total,1.43599168801292,56,insights_explorer_percent_ill_by_timeframe
+183,620b9d0686c1ac36efa63d00,2018-09-01,2018-2019,9,Adult,1.12692020303002,63,insights_explorer_percent_ill_by_timeframe
+184,620b9d0686c1ac36efa63d01,2018-09-01,2018-2019,9,Pediatric,2.1439905813642497,63,insights_explorer_percent_ill_by_timeframe
+185,620b9d0686c1ac36efa63d02,2018-09-01,2018-2019,9,Total,1.73716243003056,63,insights_explorer_percent_ill_by_timeframe
+186,620b9d0686c1ac36efa63d03,2018-09-08,2018-2019,10,Adult,1.10052510000539,70,insights_explorer_percent_ill_by_timeframe
+187,620b9d0686c1ac36efa63d04,2018-09-08,2018-2019,10,Pediatric,1.90041985942925,70,insights_explorer_percent_ill_by_timeframe
+188,620b9d0686c1ac36efa63d05,2018-09-08,2018-2019,10,Total,1.58046195565971,70,insights_explorer_percent_ill_by_timeframe
+189,620b9d0686c1ac36efa63d06,2018-09-15,2018-2019,11,Adult,1.1627649622241298,77,insights_explorer_percent_ill_by_timeframe
+190,620b9d0686c1ac36efa63d07,2018-09-15,2018-2019,11,Pediatric,1.99385489190043,77,insights_explorer_percent_ill_by_timeframe
+191,620b9d0686c1ac36efa63d08,2018-09-15,2018-2019,11,Total,1.66141892002991,77,insights_explorer_percent_ill_by_timeframe
+192,620b9d0686c1ac36efa63d09,2018-09-22,2018-2019,12,Adult,1.50914953578857,84,insights_explorer_percent_ill_by_timeframe
+193,620b9d0686c1ac36efa63d0a,2018-09-22,2018-2019,12,Pediatric,2.43644000292385,84,insights_explorer_percent_ill_by_timeframe
+194,620b9d0686c1ac36efa63d0b,2018-09-22,2018-2019,12,Total,2.06552381606974,84,insights_explorer_percent_ill_by_timeframe
+195,620b9d0686c1ac36efa63d0c,2018-09-29,2018-2019,13,Adult,1.51722967021316,91,insights_explorer_percent_ill_by_timeframe
+196,620b9d0686c1ac36efa63d0d,2018-09-29,2018-2019,13,Pediatric,2.6121787741386004,91,insights_explorer_percent_ill_by_timeframe
+197,620b9d0686c1ac36efa63d0e,2018-09-29,2018-2019,13,Total,2.17419913256842,91,insights_explorer_percent_ill_by_timeframe
+198,620b9d0686c1ac36efa63d0f,2018-10-06,2018-2019,14,Adult,1.4980014621354698,98,insights_explorer_percent_ill_by_timeframe
+199,620b9d0686c1ac36efa63d10,2018-10-06,2018-2019,14,Pediatric,2.67033831105664,98,insights_explorer_percent_ill_by_timeframe
+200,620b9d0686c1ac36efa63d11,2018-10-06,2018-2019,14,Total,2.20140357148817,98,insights_explorer_percent_ill_by_timeframe
+201,620b9d0686c1ac36efa63d12,2018-10-13,2018-2019,15,Adult,1.21213833759761,105,insights_explorer_percent_ill_by_timeframe
+202,620b9d0686c1ac36efa63d13,2018-10-13,2018-2019,15,Pediatric,2.59981846521809,105,insights_explorer_percent_ill_by_timeframe
+203,620b9d0686c1ac36efa63d14,2018-10-13,2018-2019,15,Total,2.0447464141699,105,insights_explorer_percent_ill_by_timeframe
+204,620b9d0686c1ac36efa63d15,2018-10-20,2018-2019,16,Adult,1.39701122522558,112,insights_explorer_percent_ill_by_timeframe
+205,620b9d0686c1ac36efa63d16,2018-10-20,2018-2019,16,Pediatric,2.83084012485476,112,insights_explorer_percent_ill_by_timeframe
+206,620b9d0686c1ac36efa63d17,2018-10-20,2018-2019,16,Total,2.2573085650030897,112,insights_explorer_percent_ill_by_timeframe
+207,620b9d0686c1ac36efa63d18,2018-10-27,2018-2019,17,Adult,1.46234809042272,119,insights_explorer_percent_ill_by_timeframe
+208,620b9d0686c1ac36efa63d19,2018-10-27,2018-2019,17,Pediatric,2.8858714940928,119,insights_explorer_percent_ill_by_timeframe
+209,620b9d0686c1ac36efa63d1a,2018-10-27,2018-2019,17,Total,2.3164621326247703,119,insights_explorer_percent_ill_by_timeframe
+210,620b9d0686c1ac36efa63d1b,2018-11-03,2018-2019,18,Adult,1.67166147944643,126,insights_explorer_percent_ill_by_timeframe
+211,620b9d0686c1ac36efa63d1c,2018-11-03,2018-2019,18,Pediatric,2.98214148348675,126,insights_explorer_percent_ill_by_timeframe
+212,620b9d0686c1ac36efa63d1d,2018-11-03,2018-2019,18,Total,2.4579494818706205,126,insights_explorer_percent_ill_by_timeframe
+213,620b9d0686c1ac36efa63d1e,2018-11-10,2018-2019,19,Adult,1.693513528444,133,insights_explorer_percent_ill_by_timeframe
+214,620b9d0686c1ac36efa63d1f,2018-11-10,2018-2019,19,Pediatric,3.27074909982419,133,insights_explorer_percent_ill_by_timeframe
+215,620b9d0686c1ac36efa63d20,2018-11-10,2018-2019,19,Total,2.6398548712721204,133,insights_explorer_percent_ill_by_timeframe
+216,620b9d0686c1ac36efa63d21,2018-11-17,2018-2019,20,Adult,1.89831194759219,140,insights_explorer_percent_ill_by_timeframe
+217,620b9d0686c1ac36efa63d22,2018-11-17,2018-2019,20,Pediatric,3.58866273062578,140,insights_explorer_percent_ill_by_timeframe
+218,620b9d0686c1ac36efa63d23,2018-11-17,2018-2019,20,Total,2.91252241741235,140,insights_explorer_percent_ill_by_timeframe
+219,620b9d0686c1ac36efa63d24,2018-11-24,2018-2019,21,Adult,1.6099793998188,147,insights_explorer_percent_ill_by_timeframe
+220,620b9d0686c1ac36efa63d25,2018-11-24,2018-2019,21,Pediatric,3.1275650988252903,147,insights_explorer_percent_ill_by_timeframe
+221,620b9d0686c1ac36efa63d26,2018-11-24,2018-2019,21,Total,2.52053081922269,147,insights_explorer_percent_ill_by_timeframe
+222,620b9d0686c1ac36efa63d27,2018-12-01,2018-2019,22,Adult,1.87309483795638,154,insights_explorer_percent_ill_by_timeframe
+223,620b9d0686c1ac36efa63d28,2018-12-01,2018-2019,22,Pediatric,3.3538934971513097,154,insights_explorer_percent_ill_by_timeframe
+224,620b9d0686c1ac36efa63d29,2018-12-01,2018-2019,22,Total,2.7615740334733303,154,insights_explorer_percent_ill_by_timeframe
+225,620b9d0686c1ac36efa63d2a,2018-12-08,2018-2019,23,Adult,1.81479071248727,161,insights_explorer_percent_ill_by_timeframe
+226,620b9d0686c1ac36efa63d2b,2018-12-08,2018-2019,23,Pediatric,3.6096184654659,161,insights_explorer_percent_ill_by_timeframe
+227,620b9d0686c1ac36efa63d2c,2018-12-08,2018-2019,23,Total,2.89168736427445,161,insights_explorer_percent_ill_by_timeframe
+228,620b9d0686c1ac36efa63d2d,2018-12-15,2018-2019,24,Adult,2.41686517366672,168,insights_explorer_percent_ill_by_timeframe
+229,620b9d0686c1ac36efa63d2e,2018-12-15,2018-2019,24,Pediatric,4.32241116004978,168,insights_explorer_percent_ill_by_timeframe
+230,620b9d0686c1ac36efa63d2f,2018-12-15,2018-2019,24,Total,3.560192765496549,168,insights_explorer_percent_ill_by_timeframe
+231,620b9d0686c1ac36efa63d30,2018-12-22,2018-2019,25,Adult,2.74482508509209,175,insights_explorer_percent_ill_by_timeframe
+232,620b9d0686c1ac36efa63d31,2018-12-22,2018-2019,25,Pediatric,4.58281581806713,175,insights_explorer_percent_ill_by_timeframe
+233,620b9d0686c1ac36efa63d32,2018-12-22,2018-2019,25,Total,3.84761952487711,175,insights_explorer_percent_ill_by_timeframe
+234,620b9d0686c1ac36efa63d33,2018-12-29,2018-2019,26,Adult,2.8662922235464503,182,insights_explorer_percent_ill_by_timeframe
+235,620b9d0686c1ac36efa63d34,2018-12-29,2018-2019,26,Pediatric,3.94757211171185,182,insights_explorer_percent_ill_by_timeframe
+236,620b9d0686c1ac36efa63d35,2018-12-29,2018-2019,26,Total,3.51506015644569,182,insights_explorer_percent_ill_by_timeframe
+237,620b9d0686c1ac36efa63d36,2019-01-05,2018-2019,27,Adult,2.9301129647765203,189,insights_explorer_percent_ill_by_timeframe
+238,620b9d0686c1ac36efa63d37,2019-01-05,2018-2019,27,Pediatric,3.09219583623554,189,insights_explorer_percent_ill_by_timeframe
+239,620b9d0686c1ac36efa63d38,2019-01-05,2018-2019,27,Total,3.0273626876519306,189,insights_explorer_percent_ill_by_timeframe
+240,620b9d0686c1ac36efa63d39,2019-01-12,2018-2019,28,Adult,2.55736683938332,196,insights_explorer_percent_ill_by_timeframe
+241,620b9d0686c1ac36efa63d3a,2019-01-12,2018-2019,28,Pediatric,3.29187584593833,196,insights_explorer_percent_ill_by_timeframe
+242,620b9d0686c1ac36efa63d3b,2019-01-12,2018-2019,28,Total,2.9980722433163303,196,insights_explorer_percent_ill_by_timeframe
+243,620b9d0686c1ac36efa63d3c,2019-01-19,2018-2019,29,Adult,3.1687691321900098,203,insights_explorer_percent_ill_by_timeframe
+244,620b9d0686c1ac36efa63d3d,2019-01-19,2018-2019,29,Pediatric,4.32392845623782,203,insights_explorer_percent_ill_by_timeframe
+245,620b9d0686c1ac36efa63d3e,2019-01-19,2018-2019,29,Total,3.8618647266187,203,insights_explorer_percent_ill_by_timeframe
+246,620b9d0686c1ac36efa63d3f,2019-01-26,2018-2019,30,Adult,3.23701346837694,210,insights_explorer_percent_ill_by_timeframe
+247,620b9d0686c1ac36efa63d40,2019-01-26,2018-2019,30,Pediatric,4.44413340886797,210,insights_explorer_percent_ill_by_timeframe
+248,620b9d0686c1ac36efa63d41,2019-01-26,2018-2019,30,Total,3.96128543267156,210,insights_explorer_percent_ill_by_timeframe
+249,620b9d0686c1ac36efa63d42,2019-02-02,2018-2019,31,Adult,3.733732206761601,217,insights_explorer_percent_ill_by_timeframe
+250,620b9d0686c1ac36efa63d43,2019-02-02,2018-2019,31,Pediatric,4.889376604826889,217,insights_explorer_percent_ill_by_timeframe
+251,620b9d0686c1ac36efa63d44,2019-02-02,2018-2019,31,Total,4.427118845600781,217,insights_explorer_percent_ill_by_timeframe
+252,620b9d0686c1ac36efa63d45,2019-02-09,2018-2019,32,Adult,4.1713682303260295,224,insights_explorer_percent_ill_by_timeframe
+253,620b9d0686c1ac36efa63d46,2019-02-09,2018-2019,32,Pediatric,5.088884872303289,224,insights_explorer_percent_ill_by_timeframe
+254,620b9d0686c1ac36efa63d47,2019-02-09,2018-2019,32,Total,4.7218782155123895,224,insights_explorer_percent_ill_by_timeframe
+255,620b9d0686c1ac36efa63d48,2019-02-16,2018-2019,33,Adult,3.87951180231546,231,insights_explorer_percent_ill_by_timeframe
+256,620b9d0686c1ac36efa63d49,2019-02-16,2018-2019,33,Pediatric,4.9922701417915,231,insights_explorer_percent_ill_by_timeframe
+257,620b9d0686c1ac36efa63d4a,2019-02-16,2018-2019,33,Total,4.54716680600108,231,insights_explorer_percent_ill_by_timeframe
+258,620b9d0686c1ac36efa63d4b,2019-02-23,2018-2019,34,Adult,3.8051542558105,238,insights_explorer_percent_ill_by_timeframe
+259,620b9d0686c1ac36efa63d4c,2019-02-23,2018-2019,34,Pediatric,4.89827841385316,238,insights_explorer_percent_ill_by_timeframe
+260,620b9d0686c1ac36efa63d4d,2019-02-23,2018-2019,34,Total,4.4610287506361,238,insights_explorer_percent_ill_by_timeframe
+261,620b9d0686c1ac36efa63d4e,2019-03-02,2018-2019,35,Adult,3.5603233563402403,245,insights_explorer_percent_ill_by_timeframe
+262,620b9d0686c1ac36efa63d4f,2019-03-02,2018-2019,35,Pediatric,4.63381333294952,245,insights_explorer_percent_ill_by_timeframe
+263,620b9d0686c1ac36efa63d50,2019-03-02,2018-2019,35,Total,4.20441734230581,245,insights_explorer_percent_ill_by_timeframe
+264,620b9d0686c1ac36efa63d51,2019-03-09,2018-2019,36,Adult,3.5039271468680604,252,insights_explorer_percent_ill_by_timeframe
+265,620b9d0686c1ac36efa63d52,2019-03-09,2018-2019,36,Pediatric,4.55778294204396,252,insights_explorer_percent_ill_by_timeframe
+266,620b9d0686c1ac36efa63d53,2019-03-09,2018-2019,36,Total,4.136240623973601,252,insights_explorer_percent_ill_by_timeframe
+267,620b9d0686c1ac36efa63d54,2019-03-16,2018-2019,37,Adult,3.4259752167090203,259,insights_explorer_percent_ill_by_timeframe
+268,620b9d0686c1ac36efa63d55,2019-03-16,2018-2019,37,Pediatric,4.4601968304515305,259,insights_explorer_percent_ill_by_timeframe
+269,620b9d0686c1ac36efa63d56,2019-03-16,2018-2019,37,Total,4.04650818495453,259,insights_explorer_percent_ill_by_timeframe
+270,620b9d0686c1ac36efa63d57,2019-03-23,2018-2019,38,Adult,3.16729997340722,266,insights_explorer_percent_ill_by_timeframe
+271,620b9d0686c1ac36efa63d58,2019-03-23,2018-2019,38,Pediatric,4.14563569725596,266,insights_explorer_percent_ill_by_timeframe
+272,620b9d0686c1ac36efa63d59,2019-03-23,2018-2019,38,Total,3.7543014077164703,266,insights_explorer_percent_ill_by_timeframe
+273,620b9d0686c1ac36efa63d5a,2019-03-30,2018-2019,39,Adult,2.66674356420754,273,insights_explorer_percent_ill_by_timeframe
+274,620b9d0686c1ac36efa63d5b,2019-03-30,2018-2019,39,Pediatric,3.71242165043375,273,insights_explorer_percent_ill_by_timeframe
+275,620b9d0686c1ac36efa63d5c,2019-03-30,2018-2019,39,Total,3.2941504159432595,273,insights_explorer_percent_ill_by_timeframe
+276,620b9d0686c1ac36efa63d5d,2019-04-06,2018-2019,40,Adult,2.37124886525631,280,insights_explorer_percent_ill_by_timeframe
+277,620b9d0686c1ac36efa63d5e,2019-04-06,2018-2019,40,Pediatric,3.2453463410997303,280,insights_explorer_percent_ill_by_timeframe
+278,620b9d0686c1ac36efa63d5f,2019-04-06,2018-2019,40,Total,2.8957073507623603,280,insights_explorer_percent_ill_by_timeframe
+279,620b9d0686c1ac36efa63d60,2019-04-13,2018-2019,41,Adult,2.11170054863838,287,insights_explorer_percent_ill_by_timeframe
+280,620b9d0686c1ac36efa63d61,2019-04-13,2018-2019,41,Pediatric,2.97489421567678,287,insights_explorer_percent_ill_by_timeframe
+281,620b9d0686c1ac36efa63d62,2019-04-13,2018-2019,41,Total,2.62961674886142,287,insights_explorer_percent_ill_by_timeframe
+282,620b9d0686c1ac36efa63d63,2019-04-20,2018-2019,42,Adult,1.98477742193993,294,insights_explorer_percent_ill_by_timeframe
+283,620b9d0686c1ac36efa63d64,2019-04-20,2018-2019,42,Pediatric,2.8541514382106103,294,insights_explorer_percent_ill_by_timeframe
+284,620b9d0686c1ac36efa63d65,2019-04-20,2018-2019,42,Total,2.50640183170234,294,insights_explorer_percent_ill_by_timeframe
+285,620b9d0686c1ac36efa63d66,2019-04-27,2018-2019,43,Adult,1.90058714092637,301,insights_explorer_percent_ill_by_timeframe
+286,620b9d0686c1ac36efa63d67,2019-04-27,2018-2019,43,Pediatric,2.72559057529365,301,insights_explorer_percent_ill_by_timeframe
+287,620b9d0686c1ac36efa63d68,2019-04-27,2018-2019,43,Total,2.3955892015467404,301,insights_explorer_percent_ill_by_timeframe
+288,620b9d0686c1ac36efa63d69,2019-05-04,2018-2019,44,Adult,1.80581444328399,308,insights_explorer_percent_ill_by_timeframe
+289,620b9d0686c1ac36efa63d6a,2019-05-04,2018-2019,44,Pediatric,2.73027855846035,308,insights_explorer_percent_ill_by_timeframe
+290,620b9d0686c1ac36efa63d6b,2019-05-04,2018-2019,44,Total,2.36049291238981,308,insights_explorer_percent_ill_by_timeframe
+291,620b9d0686c1ac36efa63d6c,2019-05-11,2018-2019,45,Adult,1.82693673218362,315,insights_explorer_percent_ill_by_timeframe
+292,620b9d0686c1ac36efa63d6d,2019-05-11,2018-2019,45,Pediatric,2.75675791374359,315,insights_explorer_percent_ill_by_timeframe
+293,620b9d0686c1ac36efa63d6e,2019-05-11,2018-2019,45,Total,2.3848294411196096,315,insights_explorer_percent_ill_by_timeframe
+294,620b9d0686c1ac36efa63d6f,2019-05-18,2018-2019,46,Adult,1.89285893935774,322,insights_explorer_percent_ill_by_timeframe
+295,620b9d0686c1ac36efa63d70,2019-05-18,2018-2019,46,Pediatric,2.9187993828680496,322,insights_explorer_percent_ill_by_timeframe
+296,620b9d0686c1ac36efa63d71,2019-05-18,2018-2019,46,Total,2.50842320546392,322,insights_explorer_percent_ill_by_timeframe
+297,620b9d0686c1ac36efa63d72,2019-05-25,2018-2019,47,Adult,1.5797196572415702,329,insights_explorer_percent_ill_by_timeframe
+298,620b9d0686c1ac36efa63d73,2019-05-25,2018-2019,47,Pediatric,2.49396316831677,329,insights_explorer_percent_ill_by_timeframe
+299,620b9d0686c1ac36efa63d74,2019-05-25,2018-2019,47,Total,2.1282657638866898,329,insights_explorer_percent_ill_by_timeframe
+300,620b9d0686c1ac36efa63d75,2019-06-01,2018-2019,48,Adult,1.45348596115576,336,insights_explorer_percent_ill_by_timeframe
+301,620b9d0686c1ac36efa63d76,2019-06-01,2018-2019,48,Pediatric,2.2552988643139,336,insights_explorer_percent_ill_by_timeframe
+302,620b9d0686c1ac36efa63d77,2019-06-01,2018-2019,48,Total,1.9345737030506496,336,insights_explorer_percent_ill_by_timeframe
+303,620b9d0686c1ac36efa63d78,2019-06-08,2018-2019,49,Adult,1.17280628613803,343,insights_explorer_percent_ill_by_timeframe
+304,620b9d0686c1ac36efa63d79,2019-06-08,2018-2019,49,Pediatric,2.12982426135469,343,insights_explorer_percent_ill_by_timeframe
+305,620b9d0686c1ac36efa63d7a,2019-06-08,2018-2019,49,Total,1.7470170712680302,343,insights_explorer_percent_ill_by_timeframe
+306,620b9d0686c1ac36efa63d7b,2019-06-15,2018-2019,50,Adult,1.12431924375435,350,insights_explorer_percent_ill_by_timeframe
+307,620b9d0686c1ac36efa63d7c,2019-06-15,2018-2019,50,Pediatric,2.01811083209343,350,insights_explorer_percent_ill_by_timeframe
+308,620b9d0686c1ac36efa63d7d,2019-06-15,2018-2019,50,Total,1.6605941967578,350,insights_explorer_percent_ill_by_timeframe
+309,620b9d0686c1ac36efa63d7e,2019-06-22,2018-2019,51,Adult,1.04464288238269,357,insights_explorer_percent_ill_by_timeframe
+310,620b9d0686c1ac36efa63d7f,2019-06-22,2018-2019,51,Pediatric,1.8401827480570097,357,insights_explorer_percent_ill_by_timeframe
+311,620b9d0686c1ac36efa63d80,2019-06-22,2018-2019,51,Total,1.52196680178728,357,insights_explorer_percent_ill_by_timeframe
+312,620b9d0686c1ac36efa63d81,2019-06-29,2018-2019,52,Adult,0.89477563559239,364,insights_explorer_percent_ill_by_timeframe
+313,620b9d0686c1ac36efa63d82,2019-06-29,2018-2019,52,Pediatric,1.71183724529618,364,insights_explorer_percent_ill_by_timeframe
+314,620b9d0686c1ac36efa63d83,2019-06-29,2018-2019,52,Total,1.38501260141466,364,insights_explorer_percent_ill_by_timeframe
+315,620b9d0686c1ac36efa63d84,2019-07-06,2019-2020,1,Adult,0.8041336734637471,6,insights_explorer_percent_ill_by_timeframe
+316,620b9d0686c1ac36efa63d85,2019-07-06,2019-2020,1,Pediatric,1.4078919453023502,6,insights_explorer_percent_ill_by_timeframe
+317,620b9d0686c1ac36efa63d86,2019-07-06,2019-2020,1,Total,1.1663886365669098,6,insights_explorer_percent_ill_by_timeframe
+318,620b9d0686c1ac36efa63d87,2019-07-13,2019-2020,2,Adult,0.820320243687827,13,insights_explorer_percent_ill_by_timeframe
+319,620b9d0686c1ac36efa63d88,2019-07-13,2019-2020,2,Pediatric,1.4394553693303302,13,insights_explorer_percent_ill_by_timeframe
+320,620b9d0686c1ac36efa63d89,2019-07-13,2019-2020,2,Total,1.19180131907333,13,insights_explorer_percent_ill_by_timeframe
+321,620b9d0686c1ac36efa63d8a,2019-07-20,2019-2020,3,Adult,0.814897802690929,20,insights_explorer_percent_ill_by_timeframe
+322,620b9d0686c1ac36efa63d8b,2019-07-20,2019-2020,3,Pediatric,1.49105780836762,20,insights_explorer_percent_ill_by_timeframe
+323,620b9d0686c1ac36efa63d8c,2019-07-20,2019-2020,3,Total,1.22059380609694,20,insights_explorer_percent_ill_by_timeframe
+324,620b9d0686c1ac36efa63d8d,2019-07-27,2019-2020,4,Adult,0.767234819091862,27,insights_explorer_percent_ill_by_timeframe
+325,620b9d0686c1ac36efa63d8e,2019-07-27,2019-2020,4,Pediatric,1.51572425259975,27,insights_explorer_percent_ill_by_timeframe
+326,620b9d0686c1ac36efa63d8f,2019-07-27,2019-2020,4,Total,1.21632847919659,27,insights_explorer_percent_ill_by_timeframe
+327,620b9d0686c1ac36efa63d90,2019-08-03,2019-2020,5,Adult,0.8077826600254691,34,insights_explorer_percent_ill_by_timeframe
+328,620b9d0686c1ac36efa63d91,2019-08-03,2019-2020,5,Pediatric,1.38089737981631,34,insights_explorer_percent_ill_by_timeframe
+329,620b9d0686c1ac36efa63d92,2019-08-03,2019-2020,5,Total,1.15165149189997,34,insights_explorer_percent_ill_by_timeframe
+330,620b9d0686c1ac36efa63d93,2019-08-10,2019-2020,6,Adult,0.8468322829433149,41,insights_explorer_percent_ill_by_timeframe
+331,620b9d0686c1ac36efa63d94,2019-08-10,2019-2020,6,Pediatric,1.46177497934082,41,insights_explorer_percent_ill_by_timeframe
+332,620b9d0686c1ac36efa63d95,2019-08-10,2019-2020,6,Total,1.21579790078182,41,insights_explorer_percent_ill_by_timeframe
+333,620b9d0686c1ac36efa63d96,2019-08-17,2019-2020,7,Adult,0.846456062616547,48,insights_explorer_percent_ill_by_timeframe
+334,620b9d0686c1ac36efa63d97,2019-08-17,2019-2020,7,Pediatric,1.63089298455009,48,insights_explorer_percent_ill_by_timeframe
+335,620b9d0686c1ac36efa63d98,2019-08-17,2019-2020,7,Total,1.31711821577667,48,insights_explorer_percent_ill_by_timeframe
+336,620b9d0686c1ac36efa63d99,2019-08-24,2019-2020,8,Adult,1.17814684542625,55,insights_explorer_percent_ill_by_timeframe
+337,620b9d0686c1ac36efa63d9a,2019-08-24,2019-2020,8,Pediatric,1.9882502094305,55,insights_explorer_percent_ill_by_timeframe
+338,620b9d0686c1ac36efa63d9b,2019-08-24,2019-2020,8,Total,1.6642088638288,55,insights_explorer_percent_ill_by_timeframe
+339,620b9d0686c1ac36efa63d9c,2019-08-31,2019-2020,9,Adult,1.28610281116532,62,insights_explorer_percent_ill_by_timeframe
+340,620b9d0686c1ac36efa63d9d,2019-08-31,2019-2020,9,Pediatric,2.19195523868405,62,insights_explorer_percent_ill_by_timeframe
+341,620b9d0686c1ac36efa63d9e,2019-08-31,2019-2020,9,Total,1.82961426767656,62,insights_explorer_percent_ill_by_timeframe
+342,620b9d0686c1ac36efa63d9f,2019-09-07,2019-2020,10,Adult,1.26223661766625,69,insights_explorer_percent_ill_by_timeframe
+343,620b9d0686c1ac36efa63da0,2019-09-07,2019-2020,10,Pediatric,2.01730725071767,69,insights_explorer_percent_ill_by_timeframe
+344,620b9d0686c1ac36efa63da1,2019-09-07,2019-2020,10,Total,1.7152789974971003,69,insights_explorer_percent_ill_by_timeframe
+345,620b9d0686c1ac36efa63da2,2019-09-14,2019-2020,11,Adult,1.3072430348739998,76,insights_explorer_percent_ill_by_timeframe
+346,620b9d0686c1ac36efa63da3,2019-09-14,2019-2020,11,Pediatric,2.03875455372915,76,insights_explorer_percent_ill_by_timeframe
+347,620b9d0686c1ac36efa63da4,2019-09-14,2019-2020,11,Total,1.74614994618709,76,insights_explorer_percent_ill_by_timeframe
+348,620b9d0686c1ac36efa63da5,2019-09-21,2019-2020,12,Adult,1.53114203173149,83,insights_explorer_percent_ill_by_timeframe
+349,620b9d0686c1ac36efa63da6,2019-09-21,2019-2020,12,Pediatric,2.51910772657215,83,insights_explorer_percent_ill_by_timeframe
+350,620b9d0686c1ac36efa63da7,2019-09-21,2019-2020,12,Total,2.12392144863588,83,insights_explorer_percent_ill_by_timeframe
+351,620b9d0686c1ac36efa63da8,2019-09-28,2019-2020,13,Adult,1.49165042141126,90,insights_explorer_percent_ill_by_timeframe
+352,620b9d0686c1ac36efa63da9,2019-09-28,2019-2020,13,Pediatric,2.6080917449457903,90,insights_explorer_percent_ill_by_timeframe
+353,620b9d0686c1ac36efa63daa,2019-09-28,2019-2020,13,Total,2.16151521553198,90,insights_explorer_percent_ill_by_timeframe
+354,620b9d0686c1ac36efa63dab,2019-10-05,2019-2020,14,Adult,1.34095018468672,97,insights_explorer_percent_ill_by_timeframe
+355,620b9d0686c1ac36efa63dac,2019-10-05,2019-2020,14,Pediatric,2.52147932988208,97,insights_explorer_percent_ill_by_timeframe
+356,620b9d0686c1ac36efa63dad,2019-10-05,2019-2020,14,Total,2.0492676718039298,97,insights_explorer_percent_ill_by_timeframe
+357,620b9d0686c1ac36efa63dae,2019-10-12,2019-2020,15,Adult,1.35600403270899,104,insights_explorer_percent_ill_by_timeframe
+358,620b9d0686c1ac36efa63daf,2019-10-12,2019-2020,15,Pediatric,2.53115444208095,104,insights_explorer_percent_ill_by_timeframe
+359,620b9d0686c1ac36efa63db0,2019-10-12,2019-2020,15,Total,2.06109427833216,104,insights_explorer_percent_ill_by_timeframe
+360,620b9d0686c1ac36efa63db1,2019-10-19,2019-2020,16,Adult,1.34351172734728,111,insights_explorer_percent_ill_by_timeframe
+361,620b9d0686c1ac36efa63db2,2019-10-19,2019-2020,16,Pediatric,2.5470895925945096,111,insights_explorer_percent_ill_by_timeframe
+362,620b9d0686c1ac36efa63db3,2019-10-19,2019-2020,16,Total,2.06565844649562,111,insights_explorer_percent_ill_by_timeframe
+363,620b9d0686c1ac36efa63db4,2019-10-26,2019-2020,17,Adult,1.4343211402555502,118,insights_explorer_percent_ill_by_timeframe
+364,620b9d0686c1ac36efa63db5,2019-10-26,2019-2020,17,Pediatric,2.80424120609427,118,insights_explorer_percent_ill_by_timeframe
+365,620b9d0686c1ac36efa63db6,2019-10-26,2019-2020,17,Total,2.25627317975878,118,insights_explorer_percent_ill_by_timeframe
+366,620b9d0686c1ac36efa63db7,2019-11-02,2019-2020,18,Adult,1.50776216416736,125,insights_explorer_percent_ill_by_timeframe
+367,620b9d0686c1ac36efa63db8,2019-11-02,2019-2020,18,Pediatric,3.0966666640468903,125,insights_explorer_percent_ill_by_timeframe
+368,620b9d0686c1ac36efa63db9,2019-11-02,2019-2020,18,Total,2.46110486409508,125,insights_explorer_percent_ill_by_timeframe
+369,620b9d0686c1ac36efa63dba,2019-11-09,2019-2020,19,Adult,1.74710856294925,132,insights_explorer_percent_ill_by_timeframe
+370,620b9d0686c1ac36efa63dbb,2019-11-09,2019-2020,19,Pediatric,3.68746540281832,132,insights_explorer_percent_ill_by_timeframe
+371,620b9d0686c1ac36efa63dbc,2019-11-09,2019-2020,19,Total,2.91132266687069,132,insights_explorer_percent_ill_by_timeframe
+372,620b9d0686c1ac36efa63dbd,2019-11-16,2019-2020,20,Adult,1.83822302516623,139,insights_explorer_percent_ill_by_timeframe
+373,620b9d0686c1ac36efa63dbe,2019-11-16,2019-2020,20,Pediatric,3.81134127063766,139,insights_explorer_percent_ill_by_timeframe
+374,620b9d0686c1ac36efa63dbf,2019-11-16,2019-2020,20,Total,3.02209397244909,139,insights_explorer_percent_ill_by_timeframe
+375,620b9d0686c1ac36efa63dc0,2019-11-23,2019-2020,21,Adult,1.93653207769369,146,insights_explorer_percent_ill_by_timeframe
+376,620b9d0686c1ac36efa63dc1,2019-11-23,2019-2020,21,Pediatric,4.22462615343337,146,insights_explorer_percent_ill_by_timeframe
+377,620b9d0686c1ac36efa63dc2,2019-11-23,2019-2020,21,Total,3.3093885231375,146,insights_explorer_percent_ill_by_timeframe
+378,620b9d0686c1ac36efa63dc3,2019-11-30,2019-2020,22,Adult,1.78903122888941,153,insights_explorer_percent_ill_by_timeframe
+379,620b9d0686c1ac36efa63dc4,2019-11-30,2019-2020,22,Pediatric,3.76270679202025,153,insights_explorer_percent_ill_by_timeframe
+380,620b9d0686c1ac36efa63dc5,2019-11-30,2019-2020,22,Total,2.97323656676791,153,insights_explorer_percent_ill_by_timeframe
+381,620b9d0686c1ac36efa63dc6,2019-12-07,2019-2020,23,Adult,2.06755373439811,160,insights_explorer_percent_ill_by_timeframe
+382,620b9d0686c1ac36efa63dc7,2019-12-07,2019-2020,23,Pediatric,3.76432397442689,160,insights_explorer_percent_ill_by_timeframe
+383,620b9d0686c1ac36efa63dc8,2019-12-07,2019-2020,23,Total,3.08561587841538,160,insights_explorer_percent_ill_by_timeframe
+384,620b9d0686c1ac36efa63dc9,2019-12-14,2019-2020,24,Adult,2.01598469056603,167,insights_explorer_percent_ill_by_timeframe
+385,620b9d0686c1ac36efa63dca,2019-12-14,2019-2020,24,Pediatric,4.56298250682211,167,insights_explorer_percent_ill_by_timeframe
+386,620b9d0686c1ac36efa63dcb,2019-12-14,2019-2020,24,Total,3.54418338031968,167,insights_explorer_percent_ill_by_timeframe
+387,620b9d0686c1ac36efa63dcc,2019-12-21,2019-2020,25,Adult,2.5050216646991097,174,insights_explorer_percent_ill_by_timeframe
+388,620b9d0686c1ac36efa63dcd,2019-12-21,2019-2020,25,Pediatric,5.468770320841041,174,insights_explorer_percent_ill_by_timeframe
+389,620b9d0686c1ac36efa63dce,2019-12-21,2019-2020,25,Total,4.28327085838427,174,insights_explorer_percent_ill_by_timeframe
+390,620b9d0686c1ac36efa63dcf,2019-12-28,2019-2020,26,Adult,3.14588265716991,181,insights_explorer_percent_ill_by_timeframe
+391,620b9d0686c1ac36efa63dd0,2019-12-28,2019-2020,26,Pediatric,5.1170667529993,181,insights_explorer_percent_ill_by_timeframe
+392,620b9d0686c1ac36efa63dd1,2019-12-28,2019-2020,26,Total,4.32859311466755,181,insights_explorer_percent_ill_by_timeframe
+393,620b9d0686c1ac36efa63dd2,2020-01-04,2019-2020,27,Adult,2.9561457470969,188,insights_explorer_percent_ill_by_timeframe
+394,620b9d0686c1ac36efa63dd3,2020-01-04,2019-2020,27,Pediatric,3.7685603466144,188,insights_explorer_percent_ill_by_timeframe
+395,620b9d0686c1ac36efa63dd4,2020-01-04,2019-2020,27,Total,3.4435945068074,188,insights_explorer_percent_ill_by_timeframe
+396,620b9d0686c1ac36efa63dd5,2020-01-11,2019-2020,28,Adult,2.6928443959721298,195,insights_explorer_percent_ill_by_timeframe
+397,620b9d0686c1ac36efa63dd6,2020-01-11,2019-2020,28,Pediatric,3.615620514005201,195,insights_explorer_percent_ill_by_timeframe
+398,620b9d0686c1ac36efa63dd7,2020-01-11,2019-2020,28,Total,3.24651006679197,195,insights_explorer_percent_ill_by_timeframe
+399,620b9d0686c1ac36efa63dd8,2020-01-18,2019-2020,29,Adult,2.9936383995482405,202,insights_explorer_percent_ill_by_timeframe
+400,620b9d0686c1ac36efa63dd9,2020-01-18,2019-2020,29,Pediatric,4.97029173545012,202,insights_explorer_percent_ill_by_timeframe
+401,620b9d0686c1ac36efa63dda,2020-01-18,2019-2020,29,Total,4.17963040108937,202,insights_explorer_percent_ill_by_timeframe
+402,620b9d0686c1ac36efa63ddb,2020-01-25,2019-2020,30,Adult,3.7061196138887103,209,insights_explorer_percent_ill_by_timeframe
+403,620b9d0686c1ac36efa63ddc,2020-01-25,2019-2020,30,Pediatric,5.93243760466929,209,insights_explorer_percent_ill_by_timeframe
+404,620b9d0686c1ac36efa63ddd,2020-01-25,2019-2020,30,Total,5.041910408357059,209,insights_explorer_percent_ill_by_timeframe
+405,620b9d0686c1ac36efa63dde,2020-02-01,2019-2020,31,Adult,4.753880637950809,216,insights_explorer_percent_ill_by_timeframe
+406,620b9d0686c1ac36efa63ddf,2020-02-01,2019-2020,31,Pediatric,6.7222093145797,216,insights_explorer_percent_ill_by_timeframe
+407,620b9d0686c1ac36efa63de0,2020-02-01,2019-2020,31,Total,5.93487784392815,216,insights_explorer_percent_ill_by_timeframe
+408,620b9d0686c1ac36efa63de1,2020-02-08,2019-2020,32,Adult,4.6062556631123295,223,insights_explorer_percent_ill_by_timeframe
+409,620b9d0686c1ac36efa63de2,2020-02-08,2019-2020,32,Pediatric,5.91005762173052,223,insights_explorer_percent_ill_by_timeframe
+410,620b9d0686c1ac36efa63de3,2020-02-08,2019-2020,32,Total,5.38853683828324,223,insights_explorer_percent_ill_by_timeframe
+411,620b9d0686c1ac36efa63de4,2020-02-15,2019-2020,33,Adult,3.61271413783844,230,insights_explorer_percent_ill_by_timeframe
+412,620b9d0686c1ac36efa63de5,2020-02-15,2019-2020,33,Pediatric,4.96033186456321,230,insights_explorer_percent_ill_by_timeframe
+413,620b9d0686c1ac36efa63de6,2020-02-15,2019-2020,33,Total,4.4212847738733,230,insights_explorer_percent_ill_by_timeframe
+414,620b9d0686c1ac36efa63de7,2020-02-22,2019-2020,34,Adult,3.72797788969848,237,insights_explorer_percent_ill_by_timeframe
+415,620b9d0686c1ac36efa63de8,2020-02-22,2019-2020,34,Pediatric,5.060874585611031,237,insights_explorer_percent_ill_by_timeframe
+416,620b9d0686c1ac36efa63de9,2020-02-22,2019-2020,34,Total,4.52771590724601,237,insights_explorer_percent_ill_by_timeframe
+417,620b9d0686c1ac36efa63dea,2020-02-29,2019-2020,35,Adult,3.77866664278762,244,insights_explorer_percent_ill_by_timeframe
+418,620b9d0686c1ac36efa63deb,2020-02-29,2019-2020,35,Pediatric,4.7798856722196295,244,insights_explorer_percent_ill_by_timeframe
+419,620b9d0686c1ac36efa63dec,2020-02-29,2019-2020,35,Total,4.37939806044683,244,insights_explorer_percent_ill_by_timeframe
+420,620b9d0686c1ac36efa63ded,2020-03-07,2019-2020,36,Adult,4.935435946613111,251,insights_explorer_percent_ill_by_timeframe
+421,620b9d0686c1ac36efa63dee,2020-03-07,2019-2020,36,Pediatric,5.029917848271849,251,insights_explorer_percent_ill_by_timeframe
+422,620b9d0686c1ac36efa63def,2020-03-07,2019-2020,36,Total,4.99212508760836,251,insights_explorer_percent_ill_by_timeframe
+423,620b9d0686c1ac36efa63df0,2020-03-14,2019-2020,37,Adult,4.32973233555738,258,insights_explorer_percent_ill_by_timeframe
+424,620b9d0686c1ac36efa63df1,2020-03-14,2019-2020,37,Pediatric,3.9795433727342098,258,insights_explorer_percent_ill_by_timeframe
+425,620b9d0686c1ac36efa63df2,2020-03-14,2019-2020,37,Total,4.11961895786348,258,insights_explorer_percent_ill_by_timeframe
+426,620b9d0686c1ac36efa63df3,2020-03-21,2019-2020,38,Adult,5.56695093358531,265,insights_explorer_percent_ill_by_timeframe
+427,620b9d0686c1ac36efa63df4,2020-03-21,2019-2020,38,Pediatric,3.37410363446065,265,insights_explorer_percent_ill_by_timeframe
+428,620b9d0686c1ac36efa63df5,2020-03-21,2019-2020,38,Total,4.25124255411052,265,insights_explorer_percent_ill_by_timeframe
+429,620b9d0686c1ac36efa63df6,2020-03-28,2019-2020,39,Adult,4.78774474654253,272,insights_explorer_percent_ill_by_timeframe
+430,620b9d0686c1ac36efa63df7,2020-03-28,2019-2020,39,Pediatric,2.14558332756453,272,insights_explorer_percent_ill_by_timeframe
+431,620b9d0686c1ac36efa63df8,2020-03-28,2019-2020,39,Total,3.2024478951557303,272,insights_explorer_percent_ill_by_timeframe
+432,620b9d0686c1ac36efa63df9,2020-04-04,2019-2020,40,Adult,3.86995425510476,279,insights_explorer_percent_ill_by_timeframe
+433,620b9d0686c1ac36efa63dfa,2020-04-04,2019-2020,40,Pediatric,1.3619161063451102,279,insights_explorer_percent_ill_by_timeframe
+434,620b9d0686c1ac36efa63dfb,2020-04-04,2019-2020,40,Total,2.36513136584897,279,insights_explorer_percent_ill_by_timeframe
+435,620b9d0686c1ac36efa63dfc,2020-04-11,2019-2020,41,Adult,2.54130632167751,286,insights_explorer_percent_ill_by_timeframe
+436,620b9d0686c1ac36efa63dfd,2020-04-11,2019-2020,41,Pediatric,0.978934384096092,286,insights_explorer_percent_ill_by_timeframe
+437,620b9d0686c1ac36efa63dfe,2020-04-11,2019-2020,41,Total,1.60388315912866,286,insights_explorer_percent_ill_by_timeframe
+438,620b9d0686c1ac36efa63dff,2020-04-18,2019-2020,42,Adult,1.8859601742091496,293,insights_explorer_percent_ill_by_timeframe
+439,620b9d0686c1ac36efa63e00,2020-04-18,2019-2020,42,Pediatric,0.683118614229431,293,insights_explorer_percent_ill_by_timeframe
+440,620b9d0686c1ac36efa63e01,2020-04-18,2019-2020,42,Total,1.16425523822132,293,insights_explorer_percent_ill_by_timeframe
+441,620b9d0686c1ac36efa63e02,2020-04-25,2019-2020,43,Adult,1.5295623300273502,300,insights_explorer_percent_ill_by_timeframe
+442,620b9d0686c1ac36efa63e03,2020-04-25,2019-2020,43,Pediatric,0.569473448150765,300,insights_explorer_percent_ill_by_timeframe
+443,620b9d0686c1ac36efa63e04,2020-04-25,2019-2020,43,Total,0.953509000901398,300,insights_explorer_percent_ill_by_timeframe
+444,620b9d0686c1ac36efa63e05,2020-05-02,2019-2020,44,Adult,1.120550034244,307,insights_explorer_percent_ill_by_timeframe
+445,620b9d0686c1ac36efa63e06,2020-05-02,2019-2020,44,Pediatric,0.5532271218438071,307,insights_explorer_percent_ill_by_timeframe
+446,620b9d0686c1ac36efa63e07,2020-05-02,2019-2020,44,Total,0.7801562868038828,307,insights_explorer_percent_ill_by_timeframe
+447,620b9d0686c1ac36efa63e08,2020-05-09,2019-2020,45,Adult,0.857031927760818,314,insights_explorer_percent_ill_by_timeframe
+448,620b9d0686c1ac36efa63e09,2020-05-09,2019-2020,45,Pediatric,0.436402001944437,314,insights_explorer_percent_ill_by_timeframe
+449,620b9d0686c1ac36efa63e0a,2020-05-09,2019-2020,45,Total,0.604653972270989,314,insights_explorer_percent_ill_by_timeframe
+450,620b9d0686c1ac36efa63e0b,2020-05-16,2019-2020,46,Adult,0.9760060985930028,321,insights_explorer_percent_ill_by_timeframe
+451,620b9d0686c1ac36efa63e0c,2020-05-16,2019-2020,46,Pediatric,0.524141226592284,321,insights_explorer_percent_ill_by_timeframe
+452,620b9d0686c1ac36efa63e0d,2020-05-16,2019-2020,46,Total,0.704887175392572,321,insights_explorer_percent_ill_by_timeframe
+453,620b9d0686c1ac36efa63e0e,2020-05-23,2019-2020,47,Adult,0.7598971244303341,328,insights_explorer_percent_ill_by_timeframe
+454,620b9d0686c1ac36efa63e0f,2020-05-23,2019-2020,47,Pediatric,0.425725079858841,328,insights_explorer_percent_ill_by_timeframe
+455,620b9d0686c1ac36efa63e10,2020-05-23,2019-2020,47,Total,0.559393897687438,328,insights_explorer_percent_ill_by_timeframe
+456,620b9d0686c1ac36efa63e11,2020-05-30,2019-2020,48,Adult,0.675589420196944,335,insights_explorer_percent_ill_by_timeframe
+457,620b9d0686c1ac36efa63e12,2020-05-30,2019-2020,48,Pediatric,0.473498423806042,335,insights_explorer_percent_ill_by_timeframe
+458,620b9d0686c1ac36efa63e13,2020-05-30,2019-2020,48,Total,0.554334822362403,335,insights_explorer_percent_ill_by_timeframe
+459,620b9d0686c1ac36efa63e14,2020-06-06,2019-2020,49,Adult,0.674953742548241,342,insights_explorer_percent_ill_by_timeframe
+460,620b9d0686c1ac36efa63e15,2020-06-06,2019-2020,49,Pediatric,0.423942755967445,342,insights_explorer_percent_ill_by_timeframe
+461,620b9d0686c1ac36efa63e16,2020-06-06,2019-2020,49,Total,0.524347150599764,342,insights_explorer_percent_ill_by_timeframe
+462,620b9d0686c1ac36efa63e17,2020-06-13,2019-2020,50,Adult,0.669888680978845,349,insights_explorer_percent_ill_by_timeframe
+463,620b9d0686c1ac36efa63e18,2020-06-13,2019-2020,50,Pediatric,0.4185108984249529,349,insights_explorer_percent_ill_by_timeframe
+464,620b9d0686c1ac36efa63e19,2020-06-13,2019-2020,50,Total,0.51906201144651,349,insights_explorer_percent_ill_by_timeframe
+465,620b9d0686c1ac36efa63e1a,2020-06-20,2019-2020,51,Adult,0.7774764658507621,356,insights_explorer_percent_ill_by_timeframe
+466,620b9d0686c1ac36efa63e1b,2020-06-20,2019-2020,51,Pediatric,0.4775794399219079,356,insights_explorer_percent_ill_by_timeframe
+467,620b9d0686c1ac36efa63e1c,2020-06-20,2019-2020,51,Total,0.597538250293449,356,insights_explorer_percent_ill_by_timeframe
+468,620b9d0686c1ac36efa63e1d,2020-06-27,2019-2020,52,Adult,1.11467740033061,363,insights_explorer_percent_ill_by_timeframe
+469,620b9d0686c1ac36efa63e1e,2020-06-27,2019-2020,52,Pediatric,0.629043828795234,363,insights_explorer_percent_ill_by_timeframe
+470,620b9d0686c1ac36efa63e1f,2020-06-27,2019-2020,52,Total,0.8232972574093841,363,insights_explorer_percent_ill_by_timeframe
+471,620b9d0686c1ac36efa63e20,2020-07-04,2020-2021,1,Adult,1.27027365409188,4,insights_explorer_percent_ill_by_timeframe
+472,620b9d0686c1ac36efa63e21,2020-07-04,2020-2021,1,Pediatric,0.547188411845688,4,insights_explorer_percent_ill_by_timeframe
+473,620b9d0686c1ac36efa63e22,2020-07-04,2020-2021,1,Total,0.836422508744165,4,insights_explorer_percent_ill_by_timeframe
+474,620b9d0686c1ac36efa63e23,2020-07-11,2020-2021,2,Adult,1.38310264816304,11,insights_explorer_percent_ill_by_timeframe
+475,620b9d0686c1ac36efa63e24,2020-07-11,2020-2021,2,Pediatric,0.7754712876383659,11,insights_explorer_percent_ill_by_timeframe
+476,620b9d0686c1ac36efa63e25,2020-07-11,2020-2021,2,Total,1.01852383184824,11,insights_explorer_percent_ill_by_timeframe
+477,620b9d0686c1ac36efa63e26,2020-07-18,2020-2021,3,Adult,1.3514609169978702,18,insights_explorer_percent_ill_by_timeframe
+478,620b9d0686c1ac36efa63e27,2020-07-18,2020-2021,3,Pediatric,0.8379313789158721,18,insights_explorer_percent_ill_by_timeframe
+479,620b9d0686c1ac36efa63e28,2020-07-18,2020-2021,3,Total,1.04334319414867,18,insights_explorer_percent_ill_by_timeframe
+480,620b9d0686c1ac36efa63e29,2020-07-25,2020-2021,4,Adult,1.12273680481177,25,insights_explorer_percent_ill_by_timeframe
+481,620b9d0686c1ac36efa63e2a,2020-07-25,2020-2021,4,Pediatric,0.758454284651895,25,insights_explorer_percent_ill_by_timeframe
+482,620b9d0686c1ac36efa63e2b,2020-07-25,2020-2021,4,Total,0.9041672927158472,25,insights_explorer_percent_ill_by_timeframe
+483,620b9d0686c1ac36efa63e2c,2020-08-01,2020-2021,5,Adult,0.954385651299274,32,insights_explorer_percent_ill_by_timeframe
+484,620b9d0686c1ac36efa63e2d,2020-08-01,2020-2021,5,Pediatric,0.668512154404159,32,insights_explorer_percent_ill_by_timeframe
+485,620b9d0686c1ac36efa63e2e,2020-08-01,2020-2021,5,Total,0.782861553162205,32,insights_explorer_percent_ill_by_timeframe
+486,620b9d0686c1ac36efa63e2f,2020-08-08,2020-2021,6,Adult,0.9427023631502892,39,insights_explorer_percent_ill_by_timeframe
+487,620b9d0686c1ac36efa63e30,2020-08-08,2020-2021,6,Pediatric,0.690777583032196,39,insights_explorer_percent_ill_by_timeframe
+488,620b9d0686c1ac36efa63e31,2020-08-08,2020-2021,6,Total,0.791547495079433,39,insights_explorer_percent_ill_by_timeframe
+489,620b9d0686c1ac36efa63e32,2020-08-15,2020-2021,7,Adult,0.8364775511602659,46,insights_explorer_percent_ill_by_timeframe
+490,620b9d0686c1ac36efa63e33,2020-08-15,2020-2021,7,Pediatric,0.6755359310942269,46,insights_explorer_percent_ill_by_timeframe
+491,620b9d0686c1ac36efa63e34,2020-08-15,2020-2021,7,Total,0.739912579120643,46,insights_explorer_percent_ill_by_timeframe
+492,620b9d0686c1ac36efa63e35,2020-08-22,2020-2021,8,Adult,0.757234489999331,53,insights_explorer_percent_ill_by_timeframe
+493,620b9d0686c1ac36efa63e36,2020-08-22,2020-2021,8,Pediatric,0.6964411996235849,53,insights_explorer_percent_ill_by_timeframe
+494,620b9d0686c1ac36efa63e37,2020-08-22,2020-2021,8,Total,0.7207585157738828,53,insights_explorer_percent_ill_by_timeframe
+495,620b9d0686c1ac36efa63e38,2020-08-29,2020-2021,9,Adult,0.7582898630669158,60,insights_explorer_percent_ill_by_timeframe
+496,620b9d0686c1ac36efa63e39,2020-08-29,2020-2021,9,Pediatric,0.7944185570419221,60,insights_explorer_percent_ill_by_timeframe
+497,620b9d0686c1ac36efa63e3a,2020-08-29,2020-2021,9,Total,0.7799670794519201,60,insights_explorer_percent_ill_by_timeframe
+498,620b9d0686c1ac36efa63e3b,2020-09-05,2020-2021,10,Adult,0.7615098922855981,67,insights_explorer_percent_ill_by_timeframe
+499,620b9d0686c1ac36efa63e3c,2020-09-05,2020-2021,10,Pediatric,0.8160571319170341,67,insights_explorer_percent_ill_by_timeframe
+500,620b9d0686c1ac36efa63e3d,2020-09-05,2020-2021,10,Total,0.7942382360644591,67,insights_explorer_percent_ill_by_timeframe
+501,620b9d0686c1ac36efa63e3e,2020-09-12,2020-2021,11,Adult,0.76472445552874,74,insights_explorer_percent_ill_by_timeframe
+502,620b9d0686c1ac36efa63e3f,2020-09-12,2020-2021,11,Pediatric,0.90837083666173,74,insights_explorer_percent_ill_by_timeframe
+503,620b9d0686c1ac36efa63e40,2020-09-12,2020-2021,11,Total,0.850912284208534,74,insights_explorer_percent_ill_by_timeframe
+504,620b9d0686c1ac36efa63e41,2020-09-19,2020-2021,12,Adult,0.85654890081865,81,insights_explorer_percent_ill_by_timeframe
+505,620b9d0686c1ac36efa63e42,2020-09-19,2020-2021,12,Pediatric,1.02464391839459,81,insights_explorer_percent_ill_by_timeframe
+506,620b9d0686c1ac36efa63e43,2020-09-19,2020-2021,12,Total,0.957405911364212,81,insights_explorer_percent_ill_by_timeframe
+507,620b9d0686c1ac36efa63e44,2020-09-26,2020-2021,13,Adult,0.933185924456748,88,insights_explorer_percent_ill_by_timeframe
+508,620b9d0686c1ac36efa63e45,2020-09-26,2020-2021,13,Pediatric,1.14068054793515,88,insights_explorer_percent_ill_by_timeframe
+509,620b9d0686c1ac36efa63e46,2020-09-26,2020-2021,13,Total,1.05768269854379,88,insights_explorer_percent_ill_by_timeframe
+510,620b9d0686c1ac36efa63e47,2020-10-03,2020-2021,14,Adult,0.985584904342552,95,insights_explorer_percent_ill_by_timeframe
+511,620b9d0686c1ac36efa63e48,2020-10-03,2020-2021,14,Pediatric,1.06240985245387,95,insights_explorer_percent_ill_by_timeframe
+512,620b9d0686c1ac36efa63e49,2020-10-03,2020-2021,14,Total,1.03167987320934,95,insights_explorer_percent_ill_by_timeframe
+513,620b9d0686c1ac36efa63e4a,2020-10-10,2020-2021,15,Adult,1.1808159763934498,102,insights_explorer_percent_ill_by_timeframe
+514,620b9d0686c1ac36efa63e4b,2020-10-10,2020-2021,15,Pediatric,1.13782331215137,102,insights_explorer_percent_ill_by_timeframe
+515,620b9d0686c1ac36efa63e4c,2020-10-10,2020-2021,15,Total,1.1550203778482,102,insights_explorer_percent_ill_by_timeframe
+516,620b9d0686c1ac36efa63e4d,2020-10-17,2020-2021,16,Adult,1.01211337957395,109,insights_explorer_percent_ill_by_timeframe
+517,620b9d0686c1ac36efa63e4e,2020-10-17,2020-2021,16,Pediatric,1.01012670640291,109,insights_explorer_percent_ill_by_timeframe
+518,620b9d0686c1ac36efa63e4f,2020-10-17,2020-2021,16,Total,1.01092137567133,109,insights_explorer_percent_ill_by_timeframe
+519,620b9d0686c1ac36efa63e50,2020-10-24,2020-2021,17,Adult,1.15187360483582,116,insights_explorer_percent_ill_by_timeframe
+520,620b9d0686c1ac36efa63e51,2020-10-24,2020-2021,17,Pediatric,1.04664144933041,116,insights_explorer_percent_ill_by_timeframe
+521,620b9d0686c1ac36efa63e52,2020-10-24,2020-2021,17,Total,1.08873431153257,116,insights_explorer_percent_ill_by_timeframe
+522,620b9d0686c1ac36efa63e53,2020-10-31,2020-2021,18,Adult,1.07810723432661,123,insights_explorer_percent_ill_by_timeframe
+523,620b9d0686c1ac36efa63e54,2020-10-31,2020-2021,18,Pediatric,1.0160410686195,123,insights_explorer_percent_ill_by_timeframe
+524,620b9d0686c1ac36efa63e55,2020-10-31,2020-2021,18,Total,1.04086753490234,123,insights_explorer_percent_ill_by_timeframe
+525,620b9d0686c1ac36efa63e56,2020-11-07,2020-2021,19,Adult,1.38264739997685,130,insights_explorer_percent_ill_by_timeframe
+526,620b9d0686c1ac36efa63e57,2020-11-07,2020-2021,19,Pediatric,1.34195700823227,130,insights_explorer_percent_ill_by_timeframe
+527,620b9d0686c1ac36efa63e58,2020-11-07,2020-2021,19,Total,1.3582331649301,130,insights_explorer_percent_ill_by_timeframe
+528,620b9d0686c1ac36efa63e59,2020-11-14,2020-2021,20,Adult,1.498162858441,137,insights_explorer_percent_ill_by_timeframe
+529,620b9d0686c1ac36efa63e5a,2020-11-14,2020-2021,20,Pediatric,1.35075663203925,137,insights_explorer_percent_ill_by_timeframe
+530,620b9d0686c1ac36efa63e5b,2020-11-14,2020-2021,20,Total,1.40971912259995,137,insights_explorer_percent_ill_by_timeframe
+531,620b9d0686c1ac36efa63e5c,2020-11-21,2020-2021,21,Adult,1.57128158921904,144,insights_explorer_percent_ill_by_timeframe
+532,620b9d0686c1ac36efa63e5d,2020-11-21,2020-2021,21,Pediatric,1.42445555596024,144,insights_explorer_percent_ill_by_timeframe
+533,620b9d0686c1ac36efa63e5e,2020-11-21,2020-2021,21,Total,1.48318596926376,144,insights_explorer_percent_ill_by_timeframe
+534,620b9d0686c1ac36efa63e5f,2020-11-28,2020-2021,22,Adult,1.3030667590513898,151,insights_explorer_percent_ill_by_timeframe
+535,620b9d0686c1ac36efa63e60,2020-11-28,2020-2021,22,Pediatric,1.0527007849423,151,insights_explorer_percent_ill_by_timeframe
+536,620b9d0686c1ac36efa63e61,2020-11-28,2020-2021,22,Total,1.15284717458593,151,insights_explorer_percent_ill_by_timeframe
+537,620b9d0686c1ac36efa63e62,2020-12-05,2020-2021,23,Adult,1.48797345038427,158,insights_explorer_percent_ill_by_timeframe
+538,620b9d0686c1ac36efa63e63,2020-12-05,2020-2021,23,Pediatric,1.12308330348599,158,insights_explorer_percent_ill_by_timeframe
+539,620b9d0686c1ac36efa63e64,2020-12-05,2020-2021,23,Total,1.2690393622453,158,insights_explorer_percent_ill_by_timeframe
+540,620b9d0686c1ac36efa63e65,2020-12-12,2020-2021,24,Adult,1.5388742490542,165,insights_explorer_percent_ill_by_timeframe
+541,620b9d0686c1ac36efa63e66,2020-12-12,2020-2021,24,Pediatric,1.24373004272529,165,insights_explorer_percent_ill_by_timeframe
+542,620b9d0686c1ac36efa63e67,2020-12-12,2020-2021,24,Total,1.3617877252568502,165,insights_explorer_percent_ill_by_timeframe
+543,620b9d0686c1ac36efa63e68,2020-12-19,2020-2021,25,Adult,1.30651100630876,172,insights_explorer_percent_ill_by_timeframe
+544,620b9d0686c1ac36efa63e69,2020-12-19,2020-2021,25,Pediatric,1.25314497192935,172,insights_explorer_percent_ill_by_timeframe
+545,620b9d0686c1ac36efa63e6a,2020-12-19,2020-2021,25,Total,1.2744913856811102,172,insights_explorer_percent_ill_by_timeframe
+546,620b9d0686c1ac36efa63e6b,2020-12-26,2020-2021,26,Adult,1.2730158165533,179,insights_explorer_percent_ill_by_timeframe
+547,620b9d0686c1ac36efa63e6c,2020-12-26,2020-2021,26,Pediatric,1.00742370703036,179,insights_explorer_percent_ill_by_timeframe
+548,620b9d0686c1ac36efa63e6d,2020-12-26,2020-2021,26,Total,1.11366055083954,179,insights_explorer_percent_ill_by_timeframe
+549,620b9d0686c1ac36efa63e6e,2021-01-02,2020-2021,27,Adult,1.4633564768358502,186,insights_explorer_percent_ill_by_timeframe
+550,620b9d0686c1ac36efa63e6f,2021-01-02,2020-2021,27,Pediatric,1.00012213133645,186,insights_explorer_percent_ill_by_timeframe
+551,620b9d0686c1ac36efa63e70,2021-01-02,2020-2021,27,Total,1.18541586953621,186,insights_explorer_percent_ill_by_timeframe
+552,620b9d0686c1ac36efa63e71,2021-01-09,2020-2021,28,Adult,1.5301390831956,193,insights_explorer_percent_ill_by_timeframe
+553,620b9d0686c1ac36efa63e72,2021-01-09,2020-2021,28,Pediatric,1.1279304667514398,193,insights_explorer_percent_ill_by_timeframe
+554,620b9d0686c1ac36efa63e73,2021-01-09,2020-2021,28,Total,1.2888139133291,193,insights_explorer_percent_ill_by_timeframe
+555,620b9d0686c1ac36efa63e74,2021-01-16,2020-2021,29,Adult,1.2757197370969098,200,insights_explorer_percent_ill_by_timeframe
+556,620b9d0686c1ac36efa63e75,2021-01-16,2020-2021,29,Pediatric,1.23152795619291,200,insights_explorer_percent_ill_by_timeframe
+557,620b9d0686c1ac36efa63e76,2021-01-16,2020-2021,29,Total,1.24920466855451,200,insights_explorer_percent_ill_by_timeframe
+558,620b9d0686c1ac36efa63e77,2021-01-23,2020-2021,30,Adult,1.17769127107835,207,insights_explorer_percent_ill_by_timeframe
+559,620b9d0686c1ac36efa63e78,2021-01-23,2020-2021,30,Pediatric,1.29187173671691,207,insights_explorer_percent_ill_by_timeframe
+560,620b9d0686c1ac36efa63e79,2021-01-23,2020-2021,30,Total,1.24619955046149,207,insights_explorer_percent_ill_by_timeframe
+561,620b9d0686c1ac36efa63e7a,2021-01-30,2020-2021,31,Adult,1.10592026771749,214,insights_explorer_percent_ill_by_timeframe
+562,620b9d0686c1ac36efa63e7b,2021-01-30,2020-2021,31,Pediatric,1.42351242540655,214,insights_explorer_percent_ill_by_timeframe
+563,620b9d0686c1ac36efa63e7c,2021-01-30,2020-2021,31,Total,1.29647556233092,214,insights_explorer_percent_ill_by_timeframe
+564,620b9d0686c1ac36efa63e7d,2021-02-06,2020-2021,32,Adult,1.06609550577055,221,insights_explorer_percent_ill_by_timeframe
+565,620b9d0686c1ac36efa63e7e,2021-02-06,2020-2021,32,Pediatric,1.45702171707729,221,insights_explorer_percent_ill_by_timeframe
+566,620b9d0686c1ac36efa63e7f,2021-02-06,2020-2021,32,Total,1.30065123255459,221,insights_explorer_percent_ill_by_timeframe
+567,620b9d0686c1ac36efa63e80,2021-02-13,2020-2021,33,Adult,1.03755107035333,228,insights_explorer_percent_ill_by_timeframe
+568,620b9d0686c1ac36efa63e81,2021-02-13,2020-2021,33,Pediatric,1.48356621882941,228,insights_explorer_percent_ill_by_timeframe
+569,620b9d0686c1ac36efa63e82,2021-02-13,2020-2021,33,Total,1.30516015943898,228,insights_explorer_percent_ill_by_timeframe
+570,620b9d0686c1ac36efa63e83,2021-02-20,2020-2021,34,Adult,0.7752213170082042,235,insights_explorer_percent_ill_by_timeframe
+571,620b9d0686c1ac36efa63e84,2021-02-20,2020-2021,34,Pediatric,1.21651017206988,235,insights_explorer_percent_ill_by_timeframe
+572,620b9d0686c1ac36efa63e85,2021-02-20,2020-2021,34,Total,1.03999463004521,235,insights_explorer_percent_ill_by_timeframe
+573,620b9d0686c1ac36efa63e86,2021-02-27,2020-2021,35,Adult,0.829779950087962,242,insights_explorer_percent_ill_by_timeframe
+574,620b9d0686c1ac36efa63e87,2021-02-27,2020-2021,35,Pediatric,1.29893257298825,242,insights_explorer_percent_ill_by_timeframe
+575,620b9d0686c1ac36efa63e88,2021-02-27,2020-2021,35,Total,1.11127152382814,242,insights_explorer_percent_ill_by_timeframe
+576,620b9d0686c1ac36efa63e89,2021-03-06,2020-2021,36,Adult,0.841265080386285,249,insights_explorer_percent_ill_by_timeframe
+577,620b9d0686c1ac36efa63e8a,2021-03-06,2020-2021,36,Pediatric,1.55646375605257,249,insights_explorer_percent_ill_by_timeframe
+578,620b9d0686c1ac36efa63e8b,2021-03-06,2020-2021,36,Total,1.27038428578606,249,insights_explorer_percent_ill_by_timeframe
+579,620b9d0686c1ac36efa63e8c,2021-03-13,2020-2021,37,Adult,0.8724435191631851,256,insights_explorer_percent_ill_by_timeframe
+580,620b9d0686c1ac36efa63e8d,2021-03-13,2020-2021,37,Pediatric,1.64471772410772,256,insights_explorer_percent_ill_by_timeframe
+581,620b9d0686c1ac36efa63e8e,2021-03-13,2020-2021,37,Total,1.33580804212991,256,insights_explorer_percent_ill_by_timeframe
+582,620b9d0686c1ac36efa63e8f,2021-03-20,2020-2021,38,Adult,0.776229170702154,263,insights_explorer_percent_ill_by_timeframe
+583,620b9d0686c1ac36efa63e90,2021-03-20,2020-2021,38,Pediatric,1.6763718248810802,263,insights_explorer_percent_ill_by_timeframe
+584,620b9d0686c1ac36efa63e91,2021-03-20,2020-2021,38,Total,1.31631476320951,263,insights_explorer_percent_ill_by_timeframe
+585,620b9d0686c1ac36efa63e92,2021-03-27,2020-2021,39,Adult,0.8792495019786529,270,insights_explorer_percent_ill_by_timeframe
+586,620b9d0686c1ac36efa63e93,2021-03-27,2020-2021,39,Pediatric,1.83053359421436,270,insights_explorer_percent_ill_by_timeframe
+587,620b9d0686c1ac36efa63e94,2021-03-27,2020-2021,39,Total,1.45001995732008,270,insights_explorer_percent_ill_by_timeframe
+588,620b9d0686c1ac36efa63e95,2021-04-03,2020-2021,40,Adult,1.05016978464741,277,insights_explorer_percent_ill_by_timeframe
+589,620b9d0686c1ac36efa63e96,2021-04-03,2020-2021,40,Pediatric,1.7029860509126002,277,insights_explorer_percent_ill_by_timeframe
+590,620b9d0686c1ac36efa63e97,2021-04-03,2020-2021,40,Total,1.44185954440653,277,insights_explorer_percent_ill_by_timeframe
+591,620b9d0686c1ac36efa63e98,2021-04-10,2020-2021,41,Adult,1.24273828099401,284,insights_explorer_percent_ill_by_timeframe
+592,620b9d0686c1ac36efa63e99,2021-04-10,2020-2021,41,Pediatric,2.0284676291850703,284,insights_explorer_percent_ill_by_timeframe
+593,620b9d0686c1ac36efa63e9a,2021-04-10,2020-2021,41,Total,1.71417588990865,284,insights_explorer_percent_ill_by_timeframe
+594,620b9d0686c1ac36efa63e9b,2021-04-17,2020-2021,42,Adult,1.18041880101107,291,insights_explorer_percent_ill_by_timeframe
+595,620b9d0686c1ac36efa63e9c,2021-04-17,2020-2021,42,Pediatric,2.07761958244131,291,insights_explorer_percent_ill_by_timeframe
+596,620b9d0686c1ac36efa63e9d,2021-04-17,2020-2021,42,Total,1.71873926986921,291,insights_explorer_percent_ill_by_timeframe
+597,620b9d0686c1ac36efa63e9e,2021-04-24,2020-2021,43,Adult,1.17581223041428,298,insights_explorer_percent_ill_by_timeframe
+598,620b9d0686c1ac36efa63e9f,2021-04-24,2020-2021,43,Pediatric,2.22874988311126,298,insights_explorer_percent_ill_by_timeframe
+599,620b9d0686c1ac36efa63ea0,2021-04-24,2020-2021,43,Total,1.80757482203247,298,insights_explorer_percent_ill_by_timeframe
+600,620b9d0686c1ac36efa63ea1,2021-05-01,2020-2021,44,Adult,1.14226582383691,305,insights_explorer_percent_ill_by_timeframe
+601,620b9d0686c1ac36efa63ea2,2021-05-01,2020-2021,44,Pediatric,2.3993860170310097,305,insights_explorer_percent_ill_by_timeframe
+602,620b9d0686c1ac36efa63ea3,2021-05-01,2020-2021,44,Total,1.89653793975337,305,insights_explorer_percent_ill_by_timeframe
+603,620b9d0686c1ac36efa63ea4,2021-05-08,2020-2021,45,Adult,0.932324815806034,312,insights_explorer_percent_ill_by_timeframe
+604,620b9d0686c1ac36efa63ea5,2021-05-08,2020-2021,45,Pediatric,2.5574286146277405,312,insights_explorer_percent_ill_by_timeframe
+605,620b9d0686c1ac36efa63ea6,2021-05-08,2020-2021,45,Total,1.90738709509906,312,insights_explorer_percent_ill_by_timeframe
+606,620b9d0686c1ac36efa63ea7,2021-05-15,2020-2021,46,Adult,0.85385785533521,319,insights_explorer_percent_ill_by_timeframe
+607,620b9d0686c1ac36efa63ea8,2021-05-15,2020-2021,46,Pediatric,2.6567474605272703,319,insights_explorer_percent_ill_by_timeframe
+608,620b9d0686c1ac36efa63ea9,2021-05-15,2020-2021,46,Total,1.93559161845045,319,insights_explorer_percent_ill_by_timeframe
+609,620b9d0686c1ac36efa63eaa,2021-05-22,2020-2021,47,Adult,0.707280189326298,326,insights_explorer_percent_ill_by_timeframe
+610,620b9d0686c1ac36efa63eab,2021-05-22,2020-2021,47,Pediatric,2.7443648501342897,326,insights_explorer_percent_ill_by_timeframe
+611,620b9d0686c1ac36efa63eac,2021-05-22,2020-2021,47,Total,1.9295309858110905,326,insights_explorer_percent_ill_by_timeframe
+612,620b9d0686c1ac36efa63ead,2021-05-29,2020-2021,48,Adult,0.5401081160762821,333,insights_explorer_percent_ill_by_timeframe
+613,620b9d0686c1ac36efa63eae,2021-05-29,2020-2021,48,Pediatric,2.5454290340817,333,insights_explorer_percent_ill_by_timeframe
+614,620b9d0686c1ac36efa63eaf,2021-05-29,2020-2021,48,Total,1.74330066687953,333,insights_explorer_percent_ill_by_timeframe
+615,620b9d0686c1ac36efa63eb0,2021-06-05,2020-2021,49,Adult,0.523672098121484,340,insights_explorer_percent_ill_by_timeframe
+616,620b9d0686c1ac36efa63eb1,2021-06-05,2020-2021,49,Pediatric,2.5129668203382405,340,insights_explorer_percent_ill_by_timeframe
+617,620b9d0686c1ac36efa63eb2,2021-06-05,2020-2021,49,Total,1.71724893145154,340,insights_explorer_percent_ill_by_timeframe
+618,620b9d0686c1ac36efa63eb3,2021-06-12,2020-2021,50,Adult,0.533436756660279,347,insights_explorer_percent_ill_by_timeframe
+619,620b9d0686c1ac36efa63eb4,2021-06-12,2020-2021,50,Pediatric,2.4942303843454905,347,insights_explorer_percent_ill_by_timeframe
+620,620b9d0686c1ac36efa63eb5,2021-06-12,2020-2021,50,Total,1.7099129332714098,347,insights_explorer_percent_ill_by_timeframe
+621,620b9d0686c1ac36efa63eb6,2021-06-19,2020-2021,51,Adult,0.449325142067618,354,insights_explorer_percent_ill_by_timeframe
+622,620b9d0686c1ac36efa63eb7,2021-06-19,2020-2021,51,Pediatric,2.44376413193764,354,insights_explorer_percent_ill_by_timeframe
+623,620b9d0686c1ac36efa63eb8,2021-06-19,2020-2021,51,Total,1.64598853598963,354,insights_explorer_percent_ill_by_timeframe
+624,620b9d0686c1ac36efa63eb9,2021-06-26,2020-2021,52,Adult,0.41009917884583,361,insights_explorer_percent_ill_by_timeframe
+625,620b9d0686c1ac36efa63eba,2021-06-26,2020-2021,52,Pediatric,2.42524305525744,361,insights_explorer_percent_ill_by_timeframe
+626,620b9d0686c1ac36efa63ebb,2021-06-26,2020-2021,52,Total,1.6191855046928,361,insights_explorer_percent_ill_by_timeframe
+627,620b9d0686c1ac36efa63ebc,2021-07-03,2021-2022,1,Adult,0.444160873631864,3,insights_explorer_percent_ill_by_timeframe
+628,620b9d0686c1ac36efa63ebd,2021-07-03,2021-2022,1,Pediatric,2.46118714429622,3,insights_explorer_percent_ill_by_timeframe
+629,620b9d0686c1ac36efa63ebe,2021-07-03,2021-2022,1,Total,1.65437663603047,3,insights_explorer_percent_ill_by_timeframe
+630,620b9d0686c1ac36efa63ebf,2021-07-10,2021-2022,2,Adult,0.489526203083358,10,insights_explorer_percent_ill_by_timeframe
+631,620b9d0686c1ac36efa63ec0,2021-07-10,2021-2022,2,Pediatric,2.44599767430866,10,insights_explorer_percent_ill_by_timeframe
+632,620b9d0686c1ac36efa63ec1,2021-07-10,2021-2022,2,Total,1.6634090858185402,10,insights_explorer_percent_ill_by_timeframe
+633,620b9d0686c1ac36efa63ec2,2021-07-17,2021-2022,3,Adult,0.608483653591749,17,insights_explorer_percent_ill_by_timeframe
+634,620b9d0686c1ac36efa63ec3,2021-07-17,2021-2022,3,Pediatric,2.6234618246230896,17,insights_explorer_percent_ill_by_timeframe
+635,620b9d0686c1ac36efa63ec4,2021-07-17,2021-2022,3,Total,1.81747055621056,17,insights_explorer_percent_ill_by_timeframe
+636,620b9d0686c1ac36efa63ec5,2021-07-24,2021-2022,4,Adult,0.804970013572853,24,insights_explorer_percent_ill_by_timeframe
+637,620b9d0686c1ac36efa63ec6,2021-07-24,2021-2022,4,Pediatric,2.7960942714460297,24,insights_explorer_percent_ill_by_timeframe
+638,620b9d0686c1ac36efa63ec7,2021-07-24,2021-2022,4,Total,1.99964456829676,24,insights_explorer_percent_ill_by_timeframe
+639,620b9d0686c1ac36efa63ec8,2021-07-31,2021-2022,5,Adult,0.957868309252417,31,insights_explorer_percent_ill_by_timeframe
+640,620b9d0686c1ac36efa63ec9,2021-07-31,2021-2022,5,Pediatric,2.9660732431427204,31,insights_explorer_percent_ill_by_timeframe
+641,620b9d0686c1ac36efa63eca,2021-07-31,2021-2022,5,Total,2.1627912695866,31,insights_explorer_percent_ill_by_timeframe
+642,620b9d0686c1ac36efa63ecb,2021-08-07,2021-2022,6,Adult,1.08437061135973,38,insights_explorer_percent_ill_by_timeframe
+643,620b9d0686c1ac36efa63ecc,2021-08-07,2021-2022,6,Pediatric,2.88573368053998,38,insights_explorer_percent_ill_by_timeframe
+644,620b9d0686c1ac36efa63ecd,2021-08-07,2021-2022,6,Total,2.16518845286788,38,insights_explorer_percent_ill_by_timeframe
+645,620b9d0686c1ac36efa63ece,2021-08-14,2021-2022,7,Adult,1.12705691127119,45,insights_explorer_percent_ill_by_timeframe
+646,620b9d0686c1ac36efa63ecf,2021-08-14,2021-2022,7,Pediatric,3.08516342428746,45,insights_explorer_percent_ill_by_timeframe
+647,620b9d0686c1ac36efa63ed0,2021-08-14,2021-2022,7,Total,2.30192081908095,45,insights_explorer_percent_ill_by_timeframe
+648,620b9d0686c1ac36efa63ed1,2021-08-21,2021-2022,8,Adult,1.41173584741864,52,insights_explorer_percent_ill_by_timeframe
+649,620b9d0686c1ac36efa63ed2,2021-08-21,2021-2022,8,Pediatric,3.4421563505927097,52,insights_explorer_percent_ill_by_timeframe
+650,620b9d0686c1ac36efa63ed3,2021-08-21,2021-2022,8,Total,2.62998814932308,52,insights_explorer_percent_ill_by_timeframe
+651,620b9d0686c1ac36efa63ed4,2021-08-28,2021-2022,9,Adult,1.5231480750906798,59,insights_explorer_percent_ill_by_timeframe
+652,620b9d0686c1ac36efa63ed5,2021-08-28,2021-2022,9,Pediatric,3.72201939242567,59,insights_explorer_percent_ill_by_timeframe
+653,620b9d0686c1ac36efa63ed6,2021-08-28,2021-2022,9,Total,2.84247086549167,59,insights_explorer_percent_ill_by_timeframe
+654,620b9d0686c1ac36efa63ed7,2021-09-04,2021-2022,10,Adult,1.5352104548801395,66,insights_explorer_percent_ill_by_timeframe
+655,620b9d0686c1ac36efa63ed8,2021-09-04,2021-2022,10,Pediatric,4.01531130170777,66,insights_explorer_percent_ill_by_timeframe
+656,620b9d0686c1ac36efa63ed9,2021-09-04,2021-2022,10,Total,3.02327096297671,66,insights_explorer_percent_ill_by_timeframe
+657,620b9d0686c1ac36efa63eda,2021-09-11,2021-2022,11,Adult,1.40492522756019,73,insights_explorer_percent_ill_by_timeframe
+658,620b9d0686c1ac36efa63edb,2021-09-11,2021-2022,11,Pediatric,3.60946560172381,73,insights_explorer_percent_ill_by_timeframe
+659,620b9d0686c1ac36efa63edc,2021-09-11,2021-2022,11,Total,2.72764945205836,73,insights_explorer_percent_ill_by_timeframe
+660,620b9d0686c1ac36efa63edd,2021-09-18,2021-2022,12,Adult,1.3277562385056598,80,insights_explorer_percent_ill_by_timeframe
+661,620b9d0686c1ac36efa63ede,2021-09-18,2021-2022,12,Pediatric,3.78459851228321,80,insights_explorer_percent_ill_by_timeframe
+662,620b9d0686c1ac36efa63edf,2021-09-18,2021-2022,12,Total,2.80186160277219,80,insights_explorer_percent_ill_by_timeframe
+663,620b9d0686c1ac36efa63ee0,2021-09-25,2021-2022,13,Adult,1.2637931194498,87,insights_explorer_percent_ill_by_timeframe
+664,620b9d0686c1ac36efa63ee1,2021-09-25,2021-2022,13,Pediatric,3.8951903645416,87,insights_explorer_percent_ill_by_timeframe
+665,620b9d0686c1ac36efa63ee2,2021-09-25,2021-2022,13,Total,2.8426314665048795,87,insights_explorer_percent_ill_by_timeframe
+666,620b9d0686c1ac36efa63ee3,2021-10-02,2021-2022,14,Adult,1.2988298381818002,94,insights_explorer_percent_ill_by_timeframe
+667,620b9d0686c1ac36efa63ee4,2021-10-02,2021-2022,14,Pediatric,3.8644157564522703,94,insights_explorer_percent_ill_by_timeframe
+668,620b9d0686c1ac36efa63ee5,2021-10-02,2021-2022,14,Total,2.83818138914408,94,insights_explorer_percent_ill_by_timeframe
+669,620b9d0686c1ac36efa63ee6,2021-10-09,2021-2022,15,Adult,1.25572634883887,101,insights_explorer_percent_ill_by_timeframe
+670,620b9d0686c1ac36efa63ee7,2021-10-09,2021-2022,15,Pediatric,3.67926490393557,101,insights_explorer_percent_ill_by_timeframe
+671,620b9d0686c1ac36efa63ee8,2021-10-09,2021-2022,15,Total,2.7098494818968906,101,insights_explorer_percent_ill_by_timeframe
+672,620b9d0686c1ac36efa63ee9,2021-10-16,2021-2022,16,Adult,1.0900336701200202,108,insights_explorer_percent_ill_by_timeframe
+673,620b9d0686c1ac36efa63eea,2021-10-16,2021-2022,16,Pediatric,3.57362767472765,108,insights_explorer_percent_ill_by_timeframe
+674,620b9d0686c1ac36efa63eeb,2021-10-16,2021-2022,16,Total,2.5801900728846,108,insights_explorer_percent_ill_by_timeframe
+675,620b9d0686c1ac36efa63eec,2021-10-23,2021-2022,17,Adult,1.07112973738515,115,insights_explorer_percent_ill_by_timeframe
+676,620b9d0686c1ac36efa63eed,2021-10-23,2021-2022,17,Pediatric,3.54788313910348,115,insights_explorer_percent_ill_by_timeframe
+677,620b9d0686c1ac36efa63eee,2021-10-23,2021-2022,17,Total,2.55718177841615,115,insights_explorer_percent_ill_by_timeframe
+678,620b9d0686c1ac36efa63eef,2021-10-30,2021-2022,18,Adult,1.21293978894482,122,insights_explorer_percent_ill_by_timeframe
+679,620b9d0686c1ac36efa63ef0,2021-10-30,2021-2022,18,Pediatric,3.63555690898836,122,insights_explorer_percent_ill_by_timeframe
+680,620b9d0686c1ac36efa63ef1,2021-10-30,2021-2022,18,Total,2.66651006097094,122,insights_explorer_percent_ill_by_timeframe
+681,620b9d0686c1ac36efa63ef2,2021-11-06,2021-2022,19,Adult,1.4155686106244,129,insights_explorer_percent_ill_by_timeframe
+682,620b9d0686c1ac36efa63ef3,2021-11-06,2021-2022,19,Pediatric,3.99792121927039,129,insights_explorer_percent_ill_by_timeframe
+683,620b9d0686c1ac36efa63ef4,2021-11-06,2021-2022,19,Total,2.9649801758119905,129,insights_explorer_percent_ill_by_timeframe
+684,620b9d0686c1ac36efa63ef5,2021-11-13,2021-2022,20,Adult,1.38080730050354,136,insights_explorer_percent_ill_by_timeframe
+685,620b9d0686c1ac36efa63ef6,2021-11-13,2021-2022,20,Pediatric,4.34109265924594,136,insights_explorer_percent_ill_by_timeframe
+686,620b9d0686c1ac36efa63ef7,2021-11-13,2021-2022,20,Total,3.15697851574898,136,insights_explorer_percent_ill_by_timeframe
+687,620b9d0686c1ac36efa63ef8,2021-11-20,2021-2022,21,Adult,1.49749575663452,143,insights_explorer_percent_ill_by_timeframe
+688,620b9d0686c1ac36efa63ef9,2021-11-20,2021-2022,21,Pediatric,4.21052601689243,143,insights_explorer_percent_ill_by_timeframe
+689,620b9d0686c1ac36efa63efa,2021-11-20,2021-2022,21,Total,3.1253139127892595,143,insights_explorer_percent_ill_by_timeframe
+690,620b9d0686c1ac36efa63efb,2021-11-27,2021-2022,22,Adult,1.2984308440926102,150,insights_explorer_percent_ill_by_timeframe
+691,620b9d0686c1ac36efa63efc,2021-11-27,2021-2022,22,Pediatric,3.76264521820674,150,insights_explorer_percent_ill_by_timeframe
+692,620b9d0686c1ac36efa63efd,2021-11-27,2021-2022,22,Total,2.7769594685610897,150,insights_explorer_percent_ill_by_timeframe
+693,620b9d0686c1ac36efa63efe,2021-12-04,2021-2022,23,Adult,1.7765339958815,157,insights_explorer_percent_ill_by_timeframe
+694,620b9d0686c1ac36efa63eff,2021-12-04,2021-2022,23,Pediatric,3.92422643217458,157,insights_explorer_percent_ill_by_timeframe
+695,620b9d0686c1ac36efa63f00,2021-12-04,2021-2022,23,Total,3.06514945765735,157,insights_explorer_percent_ill_by_timeframe
+696,620b9d0686c1ac36efa63f01,2021-12-11,2021-2022,24,Adult,1.70378451649432,164,insights_explorer_percent_ill_by_timeframe
+697,620b9d0686c1ac36efa63f02,2021-12-11,2021-2022,24,Pediatric,4.25162238380103,164,insights_explorer_percent_ill_by_timeframe
+698,620b9d0686c1ac36efa63f03,2021-12-11,2021-2022,24,Total,3.23248723687835,164,insights_explorer_percent_ill_by_timeframe
+699,620b9d0686c1ac36efa63f04,2021-12-18,2021-2022,25,Adult,2.03463484670553,171,insights_explorer_percent_ill_by_timeframe
+700,620b9d0686c1ac36efa63f05,2021-12-18,2021-2022,25,Pediatric,4.818819784695419,171,insights_explorer_percent_ill_by_timeframe
+701,620b9d0686c1ac36efa63f06,2021-12-18,2021-2022,25,Total,3.70514580949946,171,insights_explorer_percent_ill_by_timeframe
+702,620b9d0686c1ac36efa63f07,2021-12-25,2021-2022,26,Adult,3.2785005666877995,178,insights_explorer_percent_ill_by_timeframe
+703,620b9d0686c1ac36efa63f08,2021-12-25,2021-2022,26,Pediatric,5.198530607469349,178,insights_explorer_percent_ill_by_timeframe
+704,620b9d0686c1ac36efa63f09,2021-12-25,2021-2022,26,Total,4.430518591156731,178,insights_explorer_percent_ill_by_timeframe
+705,620b9d0686c1ac36efa63f0a,2022-01-01,2021-2022,27,Adult,4.98974528542724,185,insights_explorer_percent_ill_by_timeframe
+706,620b9d0686c1ac36efa63f0b,2022-01-01,2021-2022,27,Pediatric,5.5014251184867895,185,insights_explorer_percent_ill_by_timeframe
+707,620b9d0686c1ac36efa63f0c,2022-01-01,2021-2022,27,Total,5.29675318526297,185,insights_explorer_percent_ill_by_timeframe
+708,620b9d0686c1ac36efa63f0d,2022-01-08,2021-2022,28,Adult,5.443749595306589,192,insights_explorer_percent_ill_by_timeframe
+709,620b9d0686c1ac36efa63f0e,2022-01-08,2021-2022,28,Pediatric,5.116250453333571,192,insights_explorer_percent_ill_by_timeframe
+710,620b9d0686c1ac36efa63f0f,2022-01-08,2021-2022,28,Total,5.24725011012278,192,insights_explorer_percent_ill_by_timeframe
+711,620b9d0686c1ac36efa63f10,2022-01-15,2021-2022,29,Adult,4.76546578912812,199,insights_explorer_percent_ill_by_timeframe
+712,620b9d0686c1ac36efa63f11,2022-01-15,2021-2022,29,Pediatric,5.76104153982185,199,insights_explorer_percent_ill_by_timeframe
+713,620b9d0686c1ac36efa63f12,2022-01-15,2021-2022,29,Total,5.362811239544361,199,insights_explorer_percent_ill_by_timeframe
+714,620b9d0686c1ac36efa63f13,2022-01-22,2021-2022,30,Adult,3.9272331181594895,206,insights_explorer_percent_ill_by_timeframe
+715,620b9d0686c1ac36efa63f14,2022-01-22,2021-2022,30,Pediatric,4.84045139931897,206,insights_explorer_percent_ill_by_timeframe
+716,620b9d0686c1ac36efa63f15,2022-01-22,2021-2022,30,Total,4.475164086855179,206,insights_explorer_percent_ill_by_timeframe
+717,620b9d0686c1ac36efa63f16,2022-01-29,2021-2022,31,Adult,2.74431113365961,213,insights_explorer_percent_ill_by_timeframe
+718,620b9d0686c1ac36efa63f17,2022-01-29,2021-2022,31,Pediatric,3.93618679886819,213,insights_explorer_percent_ill_by_timeframe
+719,620b9d0686c1ac36efa63f18,2022-01-29,2021-2022,31,Total,3.45943653278476,213,insights_explorer_percent_ill_by_timeframe
+720,620b9d0686c1ac36efa63f19,2022-02-05,2021-2022,32,Adult,1.89204020435339,220,insights_explorer_percent_ill_by_timeframe
+721,620b9d0686c1ac36efa63f1a,2022-02-05,2021-2022,32,Pediatric,3.4363534081768705,220,insights_explorer_percent_ill_by_timeframe
+722,620b9d0686c1ac36efa63f1b,2022-02-05,2021-2022,32,Total,2.81862812664748,220,insights_explorer_percent_ill_by_timeframe
+723,620b9d0686c1ac36efa63f1c,2022-02-12,2021-2022,33,Adult,1.37410230047521,227,insights_explorer_percent_ill_by_timeframe
+724,620b9d0686c1ac36efa63f1d,2022-02-12,2021-2022,33,Pediatric,3.1449950271568703,227,insights_explorer_percent_ill_by_timeframe
+725,620b9d0686c1ac36efa63f1e,2022-02-12,2021-2022,33,Total,2.43663793648421,227,insights_explorer_percent_ill_by_timeframe
+726,620b9d0686c1ac36efa63f1f,2021-07-03,Typical Season,1,Adult,0.824247463713496,3,insights_explorer_percent_ill_by_timeframe
+727,620b9d0686c1ac36efa63f20,2021-07-03,Typical Season,1,Pediatric,1.58236912374341,3,insights_explorer_percent_ill_by_timeframe
+728,620b9d0686c1ac36efa63f21,2021-07-03,Typical Season,1,Total,1.2791204597314398,3,insights_explorer_percent_ill_by_timeframe
+729,620b9d0686c1ac36efa63f22,2021-07-10,Typical Season,2,Adult,0.8420371717224929,10,insights_explorer_percent_ill_by_timeframe
+730,620b9d0686c1ac36efa63f23,2021-07-10,Typical Season,2,Pediatric,1.62736236351982,10,insights_explorer_percent_ill_by_timeframe
+731,620b9d0686c1ac36efa63f24,2021-07-10,Typical Season,2,Total,1.31323228680089,10,insights_explorer_percent_ill_by_timeframe
+732,620b9d0686c1ac36efa63f25,2021-07-17,Typical Season,3,Adult,0.8037644126344871,17,insights_explorer_percent_ill_by_timeframe
+733,620b9d0686c1ac36efa63f26,2021-07-17,Typical Season,3,Pediatric,1.67459724064382,17,insights_explorer_percent_ill_by_timeframe
+734,620b9d0686c1ac36efa63f27,2021-07-17,Typical Season,3,Total,1.32626410944009,17,insights_explorer_percent_ill_by_timeframe
+735,620b9d0686c1ac36efa63f28,2021-07-24,Typical Season,4,Adult,0.792321545922482,24,insights_explorer_percent_ill_by_timeframe
+736,620b9d0686c1ac36efa63f29,2021-07-24,Typical Season,4,Pediatric,1.62322018027251,24,insights_explorer_percent_ill_by_timeframe
+737,620b9d0686c1ac36efa63f2a,2021-07-24,Typical Season,4,Total,1.29086072653249,24,insights_explorer_percent_ill_by_timeframe
+738,620b9d0686c1ac36efa63f2b,2021-07-31,Typical Season,5,Adult,0.818779285202154,31,insights_explorer_percent_ill_by_timeframe
+739,620b9d0686c1ac36efa63f2c,2021-07-31,Typical Season,5,Pediatric,1.59777651415934,31,insights_explorer_percent_ill_by_timeframe
+740,620b9d0686c1ac36efa63f2d,2021-07-31,Typical Season,5,Total,1.2861776225764698,31,insights_explorer_percent_ill_by_timeframe
+741,620b9d0686c1ac36efa63f2e,2021-08-07,Typical Season,6,Adult,0.8759825792936741,38,insights_explorer_percent_ill_by_timeframe
+742,620b9d0686c1ac36efa63f2f,2021-08-07,Typical Season,6,Pediatric,1.66498067735935,38,insights_explorer_percent_ill_by_timeframe
+743,620b9d0686c1ac36efa63f30,2021-08-07,Typical Season,6,Total,1.34938143813308,38,insights_explorer_percent_ill_by_timeframe
+744,620b9d0686c1ac36efa63f31,2021-08-14,Typical Season,7,Adult,0.977767732073174,45,insights_explorer_percent_ill_by_timeframe
+745,620b9d0686c1ac36efa63f32,2021-08-14,Typical Season,7,Pediatric,1.8425247594751104,45,insights_explorer_percent_ill_by_timeframe
+746,620b9d0686c1ac36efa63f33,2021-08-14,Typical Season,7,Total,1.4966219485143302,45,insights_explorer_percent_ill_by_timeframe
+747,620b9d0686c1ac36efa63f34,2021-08-21,Typical Season,8,Adult,1.17551421630032,52,insights_explorer_percent_ill_by_timeframe
+748,620b9d0686c1ac36efa63f35,2021-08-21,Typical Season,8,Pediatric,2.14402479132877,52,insights_explorer_percent_ill_by_timeframe
+749,620b9d0686c1ac36efa63f36,2021-08-21,Typical Season,8,Total,1.75662056131739,52,insights_explorer_percent_ill_by_timeframe
+750,620b9d0686c1ac36efa63f37,2021-08-28,Typical Season,9,Adult,1.36121916289182,59,insights_explorer_percent_ill_by_timeframe
+751,620b9d0686c1ac36efa63f38,2021-08-28,Typical Season,9,Pediatric,2.4292975790585603,59,insights_explorer_percent_ill_by_timeframe
+752,620b9d0686c1ac36efa63f39,2021-08-28,Typical Season,9,Total,2.00206621259186,59,insights_explorer_percent_ill_by_timeframe
+753,620b9d0686c1ac36efa63f3a,2021-09-04,Typical Season,10,Adult,1.42596069705128,66,insights_explorer_percent_ill_by_timeframe
+754,620b9d0686c1ac36efa63f3b,2021-09-04,Typical Season,10,Pediatric,2.33082395075136,66,insights_explorer_percent_ill_by_timeframe
+755,620b9d0686c1ac36efa63f3c,2021-09-04,Typical Season,10,Total,1.96887864927133,66,insights_explorer_percent_ill_by_timeframe
+756,620b9d0686c1ac36efa63f3d,2021-09-11,Typical Season,11,Adult,1.52351775351143,73,insights_explorer_percent_ill_by_timeframe
+757,620b9d0686c1ac36efa63f3e,2021-09-11,Typical Season,11,Pediatric,2.41345736564325,73,insights_explorer_percent_ill_by_timeframe
+758,620b9d0686c1ac36efa63f3f,2021-09-11,Typical Season,11,Total,2.05748152079052,73,insights_explorer_percent_ill_by_timeframe
+759,620b9d0686c1ac36efa63f40,2021-09-18,Typical Season,12,Adult,1.73712842242889,80,insights_explorer_percent_ill_by_timeframe
+760,620b9d0686c1ac36efa63f41,2021-09-18,Typical Season,12,Pediatric,2.7637076148122297,80,insights_explorer_percent_ill_by_timeframe
+761,620b9d0686c1ac36efa63f42,2021-09-18,Typical Season,12,Total,2.35307593785889,80,insights_explorer_percent_ill_by_timeframe
+762,620b9d0686c1ac36efa63f43,2021-09-25,Typical Season,13,Adult,1.71501874352048,87,insights_explorer_percent_ill_by_timeframe
+763,620b9d0686c1ac36efa63f44,2021-09-25,Typical Season,13,Pediatric,2.79708216064782,87,insights_explorer_percent_ill_by_timeframe
+764,620b9d0686c1ac36efa63f45,2021-09-25,Typical Season,13,Total,2.36425679379688,87,insights_explorer_percent_ill_by_timeframe
+765,620b9d0686c1ac36efa63f46,2021-10-02,Typical Season,14,Adult,1.58516341484815,94,insights_explorer_percent_ill_by_timeframe
+766,620b9d0686c1ac36efa63f47,2021-10-02,Typical Season,14,Pediatric,2.82141207112472,94,insights_explorer_percent_ill_by_timeframe
+767,620b9d0686c1ac36efa63f48,2021-10-02,Typical Season,14,Total,2.32691260861409,94,insights_explorer_percent_ill_by_timeframe
+768,620b9d0686c1ac36efa63f49,2021-10-09,Typical Season,15,Adult,1.4141265725964098,101,insights_explorer_percent_ill_by_timeframe
+769,620b9d0686c1ac36efa63f4a,2021-10-09,Typical Season,15,Pediatric,2.73944014755956,101,insights_explorer_percent_ill_by_timeframe
+770,620b9d0686c1ac36efa63f4b,2021-10-09,Typical Season,15,Total,2.2093147175743,101,insights_explorer_percent_ill_by_timeframe
+771,620b9d0686c1ac36efa63f4c,2021-10-16,Typical Season,16,Adult,1.45650066230346,108,insights_explorer_percent_ill_by_timeframe
+772,620b9d0686c1ac36efa63f4d,2021-10-16,Typical Season,16,Pediatric,2.82592401669166,108,insights_explorer_percent_ill_by_timeframe
+773,620b9d0686c1ac36efa63f4e,2021-10-16,Typical Season,16,Total,2.27815467493638,108,insights_explorer_percent_ill_by_timeframe
+774,620b9d0686c1ac36efa63f4f,2021-10-23,Typical Season,17,Adult,1.4957877751580102,115,insights_explorer_percent_ill_by_timeframe
+775,620b9d0686c1ac36efa63f50,2021-10-23,Typical Season,17,Pediatric,2.91370817768559,115,insights_explorer_percent_ill_by_timeframe
+776,620b9d0686c1ac36efa63f51,2021-10-23,Typical Season,17,Total,2.34654001667456,115,insights_explorer_percent_ill_by_timeframe
+777,620b9d0686c1ac36efa63f52,2021-10-30,Typical Season,18,Adult,1.6572269439356002,122,insights_explorer_percent_ill_by_timeframe
+778,620b9d0686c1ac36efa63f53,2021-10-30,Typical Season,18,Pediatric,3.11034375596865,122,insights_explorer_percent_ill_by_timeframe
+779,620b9d0686c1ac36efa63f54,2021-10-30,Typical Season,18,Total,2.52909703115543,122,insights_explorer_percent_ill_by_timeframe
+780,620b9d0686c1ac36efa63f55,2021-11-06,Typical Season,19,Adult,1.74376186470701,129,insights_explorer_percent_ill_by_timeframe
+781,620b9d0686c1ac36efa63f56,2021-11-06,Typical Season,19,Pediatric,3.4816611197197505,129,insights_explorer_percent_ill_by_timeframe
+782,620b9d0686c1ac36efa63f57,2021-11-06,Typical Season,19,Total,2.78650141771465,129,insights_explorer_percent_ill_by_timeframe
+783,620b9d0686c1ac36efa63f58,2021-11-13,Typical Season,20,Adult,1.95940997847216,136,insights_explorer_percent_ill_by_timeframe
+784,620b9d0686c1ac36efa63f59,2021-11-13,Typical Season,20,Pediatric,3.69712233604426,136,insights_explorer_percent_ill_by_timeframe
+785,620b9d0686c1ac36efa63f5a,2021-11-13,Typical Season,20,Total,3.00203739301542,136,insights_explorer_percent_ill_by_timeframe
+786,620b9d0686c1ac36efa63f5b,2021-11-20,Typical Season,21,Adult,1.94071886601665,143,insights_explorer_percent_ill_by_timeframe
+787,620b9d0686c1ac36efa63f5c,2021-11-20,Typical Season,21,Pediatric,3.709577881208241,143,insights_explorer_percent_ill_by_timeframe
+788,620b9d0686c1ac36efa63f5d,2021-11-20,Typical Season,21,Total,3.0020342751316,143,insights_explorer_percent_ill_by_timeframe
+789,620b9d0686c1ac36efa63f5e,2021-11-27,Typical Season,22,Adult,2.1373397731366,150,insights_explorer_percent_ill_by_timeframe
+790,620b9d0686c1ac36efa63f5f,2021-11-27,Typical Season,22,Pediatric,3.71458558859651,150,insights_explorer_percent_ill_by_timeframe
+791,620b9d0686c1ac36efa63f60,2021-11-27,Typical Season,22,Total,3.0836872624125404,150,insights_explorer_percent_ill_by_timeframe
+792,620b9d0686c1ac36efa63f61,2021-12-04,Typical Season,23,Adult,2.20195369062986,157,insights_explorer_percent_ill_by_timeframe
+793,620b9d0686c1ac36efa63f62,2021-12-04,Typical Season,23,Pediatric,3.98750753261895,157,insights_explorer_percent_ill_by_timeframe
+794,620b9d0686c1ac36efa63f63,2021-12-04,Typical Season,23,Total,3.27328599582331,157,insights_explorer_percent_ill_by_timeframe
+795,620b9d0686c1ac36efa63f64,2021-12-11,Typical Season,24,Adult,2.5535421035085,164,insights_explorer_percent_ill_by_timeframe
+796,620b9d0686c1ac36efa63f65,2021-12-11,Typical Season,24,Pediatric,4.82689086150315,164,insights_explorer_percent_ill_by_timeframe
+797,620b9d0686c1ac36efa63f66,2021-12-11,Typical Season,24,Total,3.91755135830529,164,insights_explorer_percent_ill_by_timeframe
+798,620b9d0686c1ac36efa63f67,2021-12-18,Typical Season,25,Adult,3.1158049269582,171,insights_explorer_percent_ill_by_timeframe
+799,620b9d0686c1ac36efa63f68,2021-12-18,Typical Season,25,Pediatric,5.43151933837202,171,insights_explorer_percent_ill_by_timeframe
+800,620b9d0686c1ac36efa63f69,2021-12-18,Typical Season,25,Total,4.50523357380649,171,insights_explorer_percent_ill_by_timeframe
+801,620b9d0686c1ac36efa63f6a,2021-12-25,Typical Season,26,Adult,3.47439031794869,178,insights_explorer_percent_ill_by_timeframe
+802,620b9d0686c1ac36efa63f6b,2021-12-25,Typical Season,26,Pediatric,4.81601283613146,178,insights_explorer_percent_ill_by_timeframe
+803,620b9d0686c1ac36efa63f6c,2021-12-25,Typical Season,26,Total,4.27936382885836,178,insights_explorer_percent_ill_by_timeframe
+804,620b9d0686c1ac36efa63f6d,2022-01-01,Typical Season,27,Adult,3.6603315941799104,185,insights_explorer_percent_ill_by_timeframe
+805,620b9d0686c1ac36efa63f6e,2022-01-01,Typical Season,27,Pediatric,3.97624264716682,185,insights_explorer_percent_ill_by_timeframe
+806,620b9d0686c1ac36efa63f6f,2022-01-01,Typical Season,27,Total,3.84987822597206,185,insights_explorer_percent_ill_by_timeframe
+807,620b9d0686c1ac36efa63f70,2022-01-08,Typical Season,28,Adult,3.3723339363383995,192,insights_explorer_percent_ill_by_timeframe
+808,620b9d0686c1ac36efa63f71,2022-01-08,Typical Season,28,Pediatric,4.349966056851501,192,insights_explorer_percent_ill_by_timeframe
+809,620b9d0686c1ac36efa63f72,2022-01-08,Typical Season,28,Total,3.95891320864626,192,insights_explorer_percent_ill_by_timeframe
+810,620b9d0686c1ac36efa63f73,2022-01-15,Typical Season,29,Adult,3.6785099124393903,199,insights_explorer_percent_ill_by_timeframe
+811,620b9d0686c1ac36efa63f74,2022-01-15,Typical Season,29,Pediatric,4.966380895527269,199,insights_explorer_percent_ill_by_timeframe
+812,620b9d0686c1ac36efa63f75,2022-01-15,Typical Season,29,Total,4.45123250229212,199,insights_explorer_percent_ill_by_timeframe
+813,620b9d0686c1ac36efa63f76,2022-01-22,Typical Season,30,Adult,3.927110857783621,206,insights_explorer_percent_ill_by_timeframe
+814,620b9d0686c1ac36efa63f77,2022-01-22,Typical Season,30,Pediatric,5.50357656135917,206,insights_explorer_percent_ill_by_timeframe
+815,620b9d0686c1ac36efa63f78,2022-01-22,Typical Season,30,Total,4.87299027992895,206,insights_explorer_percent_ill_by_timeframe
+816,620b9d0686c1ac36efa63f79,2022-01-29,Typical Season,31,Adult,4.46779929605483,213,insights_explorer_percent_ill_by_timeframe
+817,620b9d0686c1ac36efa63f7a,2022-01-29,Typical Season,31,Pediatric,6.065052931171549,213,insights_explorer_percent_ill_by_timeframe
+818,620b9d0686c1ac36efa63f7b,2022-01-29,Typical Season,31,Total,5.42615147712487,213,insights_explorer_percent_ill_by_timeframe
+819,620b9d0686c1ac36efa63f7c,2022-02-05,Typical Season,32,Adult,4.6723051120547305,220,insights_explorer_percent_ill_by_timeframe
+820,620b9d0686c1ac36efa63f7d,2022-02-05,Typical Season,32,Pediatric,6.25233607114575,220,insights_explorer_percent_ill_by_timeframe
+821,620b9d0686c1ac36efa63f7e,2022-02-05,Typical Season,32,Total,5.62032368750935,220,insights_explorer_percent_ill_by_timeframe
+822,620b9d0686c1ac36efa63f7f,2022-02-12,Typical Season,33,Adult,4.31054868536505,227,insights_explorer_percent_ill_by_timeframe
+823,620b9d0686c1ac36efa63f80,2022-02-12,Typical Season,33,Pediatric,5.821173758543731,227,insights_explorer_percent_ill_by_timeframe
+824,620b9d0686c1ac36efa63f81,2022-02-12,Typical Season,33,Total,5.21692372927226,227,insights_explorer_percent_ill_by_timeframe
+825,620b9d0686c1ac36efa63f82,2022-02-19,Typical Season,34,Adult,3.75238925545591,234,insights_explorer_percent_ill_by_timeframe
+826,620b9d0686c1ac36efa63f83,2022-02-19,Typical Season,34,Pediatric,5.1233555748034405,234,insights_explorer_percent_ill_by_timeframe
+827,620b9d0686c1ac36efa63f84,2022-02-19,Typical Season,34,Total,4.574969047064429,234,insights_explorer_percent_ill_by_timeframe
+828,620b9d0686c1ac36efa63f85,2022-02-26,Typical Season,35,Adult,3.12289972573927,241,insights_explorer_percent_ill_by_timeframe
+829,620b9d0686c1ac36efa63f86,2022-02-26,Typical Season,35,Pediatric,4.467387650427059,241,insights_explorer_percent_ill_by_timeframe
+830,620b9d0686c1ac36efa63f87,2022-02-26,Typical Season,35,Total,3.92959248055194,241,insights_explorer_percent_ill_by_timeframe
+831,620b9d0686c1ac36efa63f88,2022-03-05,Typical Season,36,Adult,2.9628997406863795,248,insights_explorer_percent_ill_by_timeframe
+832,620b9d0686c1ac36efa63f89,2022-03-05,Typical Season,36,Pediatric,4.48323729983558,248,insights_explorer_percent_ill_by_timeframe
+833,620b9d0686c1ac36efa63f8a,2022-03-05,Typical Season,36,Total,3.8751022761759,248,insights_explorer_percent_ill_by_timeframe
+834,620b9d0686c1ac36efa63f8b,2022-03-12,Typical Season,37,Adult,2.86571689335369,255,insights_explorer_percent_ill_by_timeframe
+835,620b9d0686c1ac36efa63f8c,2022-03-12,Typical Season,37,Pediatric,4.1966759786446,255,insights_explorer_percent_ill_by_timeframe
+836,620b9d0686c1ac36efa63f8d,2022-03-12,Typical Season,37,Total,3.66429234452824,255,insights_explorer_percent_ill_by_timeframe
+837,620b9d0686c1ac36efa63f8e,2022-03-19,Typical Season,38,Adult,2.7406461909064297,262,insights_explorer_percent_ill_by_timeframe
+838,620b9d0686c1ac36efa63f8f,2022-03-19,Typical Season,38,Pediatric,4.03032874783031,262,insights_explorer_percent_ill_by_timeframe
+839,620b9d0686c1ac36efa63f90,2022-03-19,Typical Season,38,Total,3.51445572506076,262,insights_explorer_percent_ill_by_timeframe
+840,620b9d0686c1ac36efa63f91,2022-03-26,Typical Season,39,Adult,2.3645901519939,269,insights_explorer_percent_ill_by_timeframe
+841,620b9d0686c1ac36efa63f92,2022-03-26,Typical Season,39,Pediatric,3.68139874549247,269,insights_explorer_percent_ill_by_timeframe
+842,620b9d0686c1ac36efa63f93,2022-03-26,Typical Season,39,Total,3.15467530809304,269,insights_explorer_percent_ill_by_timeframe
+843,620b9d0686c1ac36efa63f94,2022-04-02,Typical Season,40,Adult,2.1057174843707,276,insights_explorer_percent_ill_by_timeframe
+844,620b9d0686c1ac36efa63f95,2022-04-02,Typical Season,40,Pediatric,3.3223652745645698,276,insights_explorer_percent_ill_by_timeframe
+845,620b9d0686c1ac36efa63f96,2022-04-02,Typical Season,40,Total,2.83570615848702,276,insights_explorer_percent_ill_by_timeframe
+846,620b9d0686c1ac36efa63f97,2022-04-09,Typical Season,41,Adult,1.98062588556093,283,insights_explorer_percent_ill_by_timeframe
+847,620b9d0686c1ac36efa63f98,2022-04-09,Typical Season,41,Pediatric,3.04468070902812,283,insights_explorer_percent_ill_by_timeframe
+848,620b9d0686c1ac36efa63f99,2022-04-09,Typical Season,41,Total,2.61905877964125,283,insights_explorer_percent_ill_by_timeframe
+849,620b9d0686c1ac36efa63f9a,2022-04-16,Typical Season,42,Adult,1.81500866865971,290,insights_explorer_percent_ill_by_timeframe
+850,620b9d0686c1ac36efa63f9b,2022-04-16,Typical Season,42,Pediatric,2.855939732318049,290,insights_explorer_percent_ill_by_timeframe
+851,620b9d0686c1ac36efa63f9c,2022-04-16,Typical Season,42,Total,2.43956730685472,290,insights_explorer_percent_ill_by_timeframe
+852,620b9d0686c1ac36efa63f9d,2022-04-23,Typical Season,43,Adult,1.7417383003515,297,insights_explorer_percent_ill_by_timeframe
+853,620b9d0686c1ac36efa63f9e,2022-04-23,Typical Season,43,Pediatric,2.88967016097426,297,insights_explorer_percent_ill_by_timeframe
+854,620b9d0686c1ac36efa63f9f,2022-04-23,Typical Season,43,Total,2.43049741672516,297,insights_explorer_percent_ill_by_timeframe
+855,620b9d0686c1ac36efa63fa0,2022-04-30,Typical Season,44,Adult,1.6408993838814,304,insights_explorer_percent_ill_by_timeframe
+856,620b9d0686c1ac36efa63fa1,2022-04-30,Typical Season,44,Pediatric,2.89364196133213,304,insights_explorer_percent_ill_by_timeframe
+857,620b9d0686c1ac36efa63fa2,2022-04-30,Typical Season,44,Total,2.39254493035184,304,insights_explorer_percent_ill_by_timeframe
+858,620b9d0686c1ac36efa63fa3,2022-05-07,Typical Season,45,Adult,1.6096063821154198,311,insights_explorer_percent_ill_by_timeframe
+859,620b9d0686c1ac36efa63fa4,2022-05-07,Typical Season,45,Pediatric,2.7497677746453304,311,insights_explorer_percent_ill_by_timeframe
+860,620b9d0686c1ac36efa63fa5,2022-05-07,Typical Season,45,Total,2.2937032176333703,311,insights_explorer_percent_ill_by_timeframe
+861,620b9d0686c1ac36efa63fa6,2022-05-14,Typical Season,46,Adult,1.67090094162956,318,insights_explorer_percent_ill_by_timeframe
+862,620b9d0686c1ac36efa63fa7,2022-05-14,Typical Season,46,Pediatric,2.76297179810489,318,insights_explorer_percent_ill_by_timeframe
+863,620b9d0686c1ac36efa63fa8,2022-05-14,Typical Season,46,Total,2.32614345551476,318,insights_explorer_percent_ill_by_timeframe
+864,620b9d0686c1ac36efa63fa9,2022-05-21,Typical Season,47,Adult,1.4778139810103703,325,insights_explorer_percent_ill_by_timeframe
+865,620b9d0686c1ac36efa63faa,2022-05-21,Typical Season,47,Pediatric,2.55027721528885,325,insights_explorer_percent_ill_by_timeframe
+866,620b9d0686c1ac36efa63fab,2022-05-21,Typical Season,47,Total,2.12129192157746,325,insights_explorer_percent_ill_by_timeframe
+867,620b9d0686c1ac36efa63fac,2022-05-28,Typical Season,48,Adult,1.3727642447184198,332,insights_explorer_percent_ill_by_timeframe
+868,620b9d0686c1ac36efa63fad,2022-05-28,Typical Season,48,Pediatric,2.31705452975035,332,insights_explorer_percent_ill_by_timeframe
+869,620b9d0686c1ac36efa63fae,2022-05-28,Typical Season,48,Total,1.93933841573758,332,insights_explorer_percent_ill_by_timeframe
+870,620b9d0686c1ac36efa63faf,2022-06-04,Typical Season,49,Adult,1.18885865140285,339,insights_explorer_percent_ill_by_timeframe
+871,620b9d0686c1ac36efa63fb0,2022-06-04,Typical Season,49,Pediatric,2.1927671936263,339,insights_explorer_percent_ill_by_timeframe
+872,620b9d0686c1ac36efa63fb1,2022-06-04,Typical Season,49,Total,1.7912037767369198,339,insights_explorer_percent_ill_by_timeframe
+873,620b9d0686c1ac36efa63fb2,2022-06-11,Typical Season,50,Adult,1.10373575042202,346,insights_explorer_percent_ill_by_timeframe
+874,620b9d0686c1ac36efa63fb3,2022-06-11,Typical Season,50,Pediatric,2.09250004257944,346,insights_explorer_percent_ill_by_timeframe
+875,620b9d0686c1ac36efa63fb4,2022-06-11,Typical Season,50,Total,1.69699432571647,346,insights_explorer_percent_ill_by_timeframe
+876,620b9d0686c1ac36efa63fb5,2022-06-18,Typical Season,51,Adult,1.05457160877653,353,insights_explorer_percent_ill_by_timeframe
+877,620b9d0686c1ac36efa63fb6,2022-06-18,Typical Season,51,Pediatric,1.94849629147559,353,insights_explorer_percent_ill_by_timeframe
+878,620b9d0686c1ac36efa63fb7,2022-06-18,Typical Season,51,Total,1.59092641839597,353,insights_explorer_percent_ill_by_timeframe
+879,620b9d0686c1ac36efa63fb8,2022-06-25,Typical Season,52,Adult,0.87828044193826,360,insights_explorer_percent_ill_by_timeframe
+880,620b9d0686c1ac36efa63fb9,2022-06-25,Typical Season,52,Pediatric,1.81040726865274,360,insights_explorer_percent_ill_by_timeframe
+881,620b9d0686c1ac36efa63fba,2022-06-25,Typical Season,52,Total,1.43755653796695,360,insights_explorer_percent_ill_by_timeframe
+882,620b9d0686c1ac36efa63fbb,2022-02-12,In-Season Forecast,33,Adult,1.37410230047521,227,insights_explorer_percent_ill_by_timeframe
+883,620b9d0686c1ac36efa63fbc,2022-02-12,In-Season Forecast,33,Pediatric,3.1449950271568703,227,insights_explorer_percent_ill_by_timeframe
+884,620b9d0686c1ac36efa63fbd,2022-02-12,In-Season Forecast,33,Total,2.43663793648421,227,insights_explorer_percent_ill_by_timeframe
+885,620b9d0686c1ac36efa63fbe,2022-02-19,In-Season Forecast,34,Adult,1.4784031038508,234,insights_explorer_percent_ill_by_timeframe
+886,620b9d0686c1ac36efa63fbf,2022-02-19,In-Season Forecast,34,Pediatric,3.2000985409734906,234,insights_explorer_percent_ill_by_timeframe
+887,620b9d0686c1ac36efa63fc0,2022-02-19,In-Season Forecast,34,Total,2.4864942928191,234,insights_explorer_percent_ill_by_timeframe
+888,620b9d0686c1ac36efa63fc1,2022-02-26,In-Season Forecast,35,Adult,2.0424612615893603,241,insights_explorer_percent_ill_by_timeframe
+889,620b9d0686c1ac36efa63fc2,2022-02-26,In-Season Forecast,35,Pediatric,3.7432511690252297,241,insights_explorer_percent_ill_by_timeframe
+890,620b9d0686c1ac36efa63fc3,2022-02-26,In-Season Forecast,35,Total,2.89652465309338,241,insights_explorer_percent_ill_by_timeframe
+891,620b9d0686c1ac36efa63fc4,2022-03-05,In-Season Forecast,36,Adult,2.13753183736722,248,insights_explorer_percent_ill_by_timeframe
+892,620b9d0686c1ac36efa63fc5,2022-03-05,In-Season Forecast,36,Pediatric,4.134302243176649,248,insights_explorer_percent_ill_by_timeframe
+893,620b9d0686c1ac36efa63fc6,2022-03-05,In-Season Forecast,36,Total,3.23249058592676,248,insights_explorer_percent_ill_by_timeframe
+894,620b9d0686c1ac36efa63fc7,2022-03-12,In-Season Forecast,37,Adult,1.9705739051052,255,insights_explorer_percent_ill_by_timeframe
+895,620b9d0686c1ac36efa63fc8,2022-03-12,In-Season Forecast,37,Pediatric,4.2651191222324005,255,insights_explorer_percent_ill_by_timeframe
+896,620b9d0686c1ac36efa63fc9,2022-03-12,In-Season Forecast,37,Total,3.35064106912756,255,insights_explorer_percent_ill_by_timeframe
+897,620b9d0686c1ac36efa63fca,2022-03-19,In-Season Forecast,38,Adult,1.71160830628599,262,insights_explorer_percent_ill_by_timeframe
+898,620b9d0686c1ac36efa63fcb,2022-03-19,In-Season Forecast,38,Pediatric,3.96805963624453,262,insights_explorer_percent_ill_by_timeframe
+899,620b9d0686c1ac36efa63fcc,2022-03-19,In-Season Forecast,38,Total,3.10784852090159,262,insights_explorer_percent_ill_by_timeframe
+900,620b9d0686c1ac36efa63fcd,2022-03-26,In-Season Forecast,39,Adult,1.4192157512861898,269,insights_explorer_percent_ill_by_timeframe
+901,620b9d0686c1ac36efa63fce,2022-03-26,In-Season Forecast,39,Pediatric,3.48464430918695,269,insights_explorer_percent_ill_by_timeframe
+902,620b9d0686c1ac36efa63fcf,2022-03-26,In-Season Forecast,39,Total,2.7193796561717005,269,insights_explorer_percent_ill_by_timeframe
+903,620b9d0686c1ac36efa63fd0,2022-04-02,In-Season Forecast,40,Adult,1.3395495193837,276,insights_explorer_percent_ill_by_timeframe
+904,620b9d0686c1ac36efa63fd1,2022-04-02,In-Season Forecast,40,Pediatric,3.0272722309707003,276,insights_explorer_percent_ill_by_timeframe
+905,620b9d0686c1ac36efa63fd2,2022-04-02,In-Season Forecast,40,Total,2.32714304623428,276,insights_explorer_percent_ill_by_timeframe
+906,620b9d0686c1ac36efa63fd3,2022-04-09,In-Season Forecast,41,Adult,1.28701641839995,283,insights_explorer_percent_ill_by_timeframe
+907,620b9d0686c1ac36efa63fd4,2022-04-09,In-Season Forecast,41,Pediatric,3.02232385215981,283,insights_explorer_percent_ill_by_timeframe
+908,620b9d0686c1ac36efa63fd5,2022-04-09,In-Season Forecast,41,Total,2.2830223798865696,283,insights_explorer_percent_ill_by_timeframe
+909,620b9d0686c1ac36efa63fd6,2022-04-16,In-Season Forecast,42,Adult,1.22087251119062,290,insights_explorer_percent_ill_by_timeframe
+910,620b9d0686c1ac36efa63fd7,2022-04-16,In-Season Forecast,42,Pediatric,2.81037127081886,290,insights_explorer_percent_ill_by_timeframe
+911,620b9d0686c1ac36efa63fd8,2022-04-16,In-Season Forecast,42,Total,2.14450024941872,290,insights_explorer_percent_ill_by_timeframe
+912,620b9d0686c1ac36efa63fd9,2022-04-23,In-Season Forecast,43,Adult,1.04327142034645,297,insights_explorer_percent_ill_by_timeframe
+913,620b9d0686c1ac36efa63fda,2022-04-23,In-Season Forecast,43,Pediatric,2.67710416340831,297,insights_explorer_percent_ill_by_timeframe
+914,620b9d0686c1ac36efa63fdb,2022-04-23,In-Season Forecast,43,Total,2.04014296113084,297,insights_explorer_percent_ill_by_timeframe
+915,620b9d0686c1ac36efa63fdc,2022-04-30,In-Season Forecast,44,Adult,0.918804642967383,304,insights_explorer_percent_ill_by_timeframe
+916,620b9d0686c1ac36efa63fdd,2022-04-30,In-Season Forecast,44,Pediatric,2.42193090279491,304,insights_explorer_percent_ill_by_timeframe
+917,620b9d0686c1ac36efa63fde,2022-04-30,In-Season Forecast,44,Total,1.81376610988632,304,insights_explorer_percent_ill_by_timeframe
+918,620b9d0686c1ac36efa63fdf,2022-05-07,In-Season Forecast,45,Adult,0.853423751032782,311,insights_explorer_percent_ill_by_timeframe
+919,620b9d0686c1ac36efa63fe0,2022-05-07,In-Season Forecast,45,Pediatric,2.16161284097348,311,insights_explorer_percent_ill_by_timeframe
+920,620b9d0686c1ac36efa63fe1,2022-05-07,In-Season Forecast,45,Total,1.6123877381321,311,insights_explorer_percent_ill_by_timeframe
+921,620b9d0686c1ac36efa63fe2,2022-05-14,In-Season Forecast,46,Adult,0.7711479835055519,318,insights_explorer_percent_ill_by_timeframe
+922,620b9d0686c1ac36efa63fe3,2022-05-14,In-Season Forecast,46,Pediatric,1.95619202882331,318,insights_explorer_percent_ill_by_timeframe
+923,620b9d0686c1ac36efa63fe4,2022-05-14,In-Season Forecast,46,Total,1.4705937043640602,318,insights_explorer_percent_ill_by_timeframe
+924,620b9d0686c1ac36efa63fe5,2022-05-21,In-Season Forecast,47,Adult,0.728611845087408,325,insights_explorer_percent_ill_by_timeframe
+925,620b9d0686c1ac36efa63fe6,2022-05-21,In-Season Forecast,47,Pediatric,1.8093205544547504,325,insights_explorer_percent_ill_by_timeframe
+926,620b9d0686c1ac36efa63fe7,2022-05-21,In-Season Forecast,47,Total,1.35069412481368,325,insights_explorer_percent_ill_by_timeframe
+927,620b9d0686c1ac36efa63fe8,2022-05-28,In-Season Forecast,48,Adult,0.6748498124528312,332,insights_explorer_percent_ill_by_timeframe
+928,620b9d0686c1ac36efa63fe9,2022-05-28,In-Season Forecast,48,Pediatric,1.80247418532703,332,insights_explorer_percent_ill_by_timeframe
+929,620b9d0686c1ac36efa63fea,2022-05-28,In-Season Forecast,48,Total,1.32493225096526,332,insights_explorer_percent_ill_by_timeframe
+930,620b9d0686c1ac36efa63feb,2022-06-04,In-Season Forecast,49,Adult,0.6498517184541579,339,insights_explorer_percent_ill_by_timeframe
+931,620b9d0686c1ac36efa63fec,2022-06-04,In-Season Forecast,49,Pediatric,1.77450581961558,339,insights_explorer_percent_ill_by_timeframe
+932,620b9d0686c1ac36efa63fed,2022-06-04,In-Season Forecast,49,Total,1.2822433763839198,339,insights_explorer_percent_ill_by_timeframe
+933,620b9d0686c1ac36efa63fee,2022-06-11,In-Season Forecast,50,Adult,0.6612599949043599,346,insights_explorer_percent_ill_by_timeframe
+934,620b9d0686c1ac36efa63fef,2022-06-11,In-Season Forecast,50,Pediatric,1.65538135450813,346,insights_explorer_percent_ill_by_timeframe
+935,620b9d0686c1ac36efa63ff0,2022-06-11,In-Season Forecast,50,Total,1.20674912514367,346,insights_explorer_percent_ill_by_timeframe
+936,620b9d0686c1ac36efa63ff1,2022-06-18,In-Season Forecast,51,Adult,0.572434537057246,353,insights_explorer_percent_ill_by_timeframe
+937,620b9d0686c1ac36efa63ff2,2022-06-18,In-Season Forecast,51,Pediatric,1.63044236919907,353,insights_explorer_percent_ill_by_timeframe
+938,620b9d0686c1ac36efa63ff3,2022-06-18,In-Season Forecast,51,Total,1.19961868802935,353,insights_explorer_percent_ill_by_timeframe
+939,620b9d0686c1ac36efa63ff4,2022-06-25,In-Season Forecast,52,Adult,0.519689665826969,360,insights_explorer_percent_ill_by_timeframe
+940,620b9d0686c1ac36efa63ff5,2022-06-25,In-Season Forecast,52,Pediatric,1.47299374676954,360,insights_explorer_percent_ill_by_timeframe
+941,620b9d0686c1ac36efa63ff6,2022-06-25,In-Season Forecast,52,Total,1.0707588634370602,360,insights_explorer_percent_ill_by_timeframe
